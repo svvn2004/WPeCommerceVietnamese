@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2012-12-04 17:45+0700\n"
+"PO-Revision-Date: 2012-12-06 17:28+0700\n"
 "Last-Translator: Duan Le <socbac.net@gmail.com>\n"
 "Language-Team: SocBac\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
@@ -1270,7 +1270,7 @@ msgstr "Không"
 #: wpsc-admin/includes/settings-pages/gateway.php:105
 #: wpsc-admin/includes/settings-pages/gateway.php:139
 msgid "Update &raquo;"
-msgstr ""
+msgstr "Cập nhật &raquo;"
 
 #: wpsc-merchants/library/google_shipping_country.php:7
 msgid "Google Shipping Country"
@@ -1284,12 +1284,12 @@ msgstr "Lưu thay đổi"
 
 #: wpsc-merchants/paypal-standard.merchant.php:170
 msgid "Your Subscription"
-msgstr ""
+msgstr "Sự tham gia của bạn"
 
 #: wpsc-merchants/paypal-standard.merchant.php:580
 #: wpsc-merchants/paypal-express.merchant.php:293
 msgid "Currency Converter"
-msgstr ""
+msgstr "Chuyển đổi tiền tệ"
 
 #: wpsc-merchants/paypal-standard.merchant.php:583
 msgid ""
@@ -1321,7 +1321,7 @@ msgstr ""
 
 #: wpsc-merchants/paypal-express.merchant.php:277
 msgid "Server Type"
-msgstr ""
+msgstr "Loại máy chủ"
 
 #: wpsc-merchants/paypal-express.merchant.php:280
 msgid "Sandbox (For testing)"
@@ -1329,7 +1329,7 @@ msgstr ""
 
 #: wpsc-merchants/paypal-express.merchant.php:281
 msgid "Production"
-msgstr ""
+msgstr "Sản xuất"
 
 #: wpsc-merchants/paypal-express.merchant.php:295
 msgid ""
@@ -1341,7 +1341,7 @@ msgstr ""
 
 #: wpsc-merchants/paypal-express.merchant.php:298
 msgid "Convert to"
-msgstr ""
+msgstr "Chuyển đổi tới"
 
 #: wpsc-merchants/paypal-express.merchant.php:378
 msgid "The PayPal API has returned an error!"
@@ -1350,19 +1350,19 @@ msgstr ""
 #: wpsc-merchants/paypal-express.merchant.php:423
 #: wpsc-merchants/paypal-express.merchant.php:602
 msgid "Error Number:"
-msgstr ""
+msgstr "Số bị lỗi:"
 
 #: wpsc-merchants/paypal-express.merchant.php:427
 msgid "Short Message:"
-msgstr ""
+msgstr "Mô tả ngắn:"
 
 #: wpsc-merchants/paypal-express.merchant.php:431
 msgid "Long Message:"
-msgstr ""
+msgstr "Mô tả đầy đủ:"
 
 #: wpsc-merchants/paypal-express.merchant.php:606
 msgid "Shipping Address:"
-msgstr ""
+msgstr "Địa chỉ giao nhận:"
 
 #: wpsc-merchants/paypal-express.merchant.php:610
 msgid "Street 1:"
@@ -1382,7 +1382,7 @@ msgstr "Quận:"
 
 #: wpsc-merchants/paypal-express.merchant.php:633
 msgid "Postal code:"
-msgstr ""
+msgstr "Mã bưu chính:"
 
 #: wpsc-merchants/paypal-express.merchant.php:639
 msgid "Country:"
@@ -1398,7 +1398,7 @@ msgstr ""
 
 #: wpsc-widgets/category_widget.php:19 wpsc-widgets/category_widget.php:34
 msgid "Product Categories"
-msgstr ""
+msgstr "Danh mục sản phẩm"
 
 #: wpsc-widgets/category_widget.php:128 wpsc-widgets/donations_widget.php:95
 #: wpsc-widgets/admin_menu_widget.php:85
@@ -1411,37 +1411,37 @@ msgstr "Tiêu đề:"
 
 #: wpsc-widgets/category_widget.php:133
 msgid "Show Categories"
-msgstr ""
+msgstr "Hiển thị danh mục:"
 
 #: wpsc-widgets/category_widget.php:135
 msgid "(leave all unchecked if you want to display all)"
-msgstr ""
+msgstr "(bỏ đánh dấu tất cả nếu bạn muốn hiển thị tất cả)"
 
 #: wpsc-widgets/category_widget.php:140
 #: wpsc-admin/includes/settings-pages/presentation.php:952
 msgid "Use Category Grid View"
-msgstr ""
+msgstr "Danh mục dạng Grid View"
 
 #: wpsc-widgets/category_widget.php:142
 #: wpsc-widgets/latest_product_widget.php:98
 #: wpsc-widgets/specials_widget.php:106
 #: wpsc-admin/includes/settings-pages/presentation.php:1035
 msgid "Show Thumbnails"
-msgstr ""
+msgstr "Hiển thị Hình đại diện"
 
 #: wpsc-widgets/category_widget.php:148
 msgid " Show N/A when No Image Available"
-msgstr ""
+msgstr "Hiển thị N/A khi không có ảnh nào"
 
 #: wpsc-widgets/category_widget.php:151
 #: wpsc-widgets/latest_product_widget.php:103
 msgid "Width:"
-msgstr ""
+msgstr "Chiều rộng:"
 
 #: wpsc-widgets/category_widget.php:153
 #: wpsc-widgets/latest_product_widget.php:105
 msgid "Height:"
-msgstr ""
+msgstr "Chiều cao:"
 
 #: wpsc-widgets/donations_widget.php:19
 msgid "Donations Widget"
@@ -1462,17 +1462,17 @@ msgstr ""
 
 #: wpsc-widgets/latest_product_widget.php:15
 msgid "Latest Products Widget"
-msgstr ""
+msgstr "Widget Sản phẩm mới nhất"
 
 #: wpsc-widgets/latest_product_widget.php:16
 #: wpsc-widgets/latest_product_widget.php:31
 msgid "Latest Products"
-msgstr ""
+msgstr "Sản phẩm mới nhất"
 
 #: wpsc-widgets/latest_product_widget.php:92
 #: wpsc-widgets/specials_widget.php:99
 msgid "Number of products to show:"
-msgstr ""
+msgstr "Số sản phẩm được hiển thị:"
 
 #: wpsc-widgets/price_range_widget.php:19
 msgid "Price Range Widget"
@@ -1481,11 +1481,11 @@ msgstr ""
 #: wpsc-widgets/price_range_widget.php:22
 #: wpsc-widgets/price_range_widget.php:41
 msgid "Price Range"
-msgstr ""
+msgstr "Mức giá"
 
 #: wpsc-widgets/price_range_widget.php:136
 msgid "Show All"
-msgstr ""
+msgstr "Hiển thị tất cả"
 
 #: wpsc-widgets/specials_widget.php:19
 msgid "Product Specials Widget"
@@ -1493,15 +1493,15 @@ msgstr ""
 
 #: wpsc-widgets/specials_widget.php:22 wpsc-widgets/specials_widget.php:41
 msgid "Product Specials"
-msgstr ""
+msgstr "Sản phẩm khuyến mãi"
 
 #: wpsc-widgets/specials_widget.php:104
 msgid "Show Description"
-msgstr ""
+msgstr "Hiển thị mô tả"
 
 #: wpsc-widgets/specials_widget.php:195
 msgid "From"
-msgstr ""
+msgstr "Từ"
 
 #: wpsc-widgets/shopping_cart_widget.php:19
 msgid "Shopping Cart Widget"
@@ -1514,16 +1514,16 @@ msgstr ""
 #: wpsc-includes/shopping_cart_functions.php:52
 #: wpsc-includes/shopping_cart_functions.php:69
 msgid "Shopping Cart"
-msgstr ""
+msgstr "Giỏ hàng"
 
 #: wpsc-widgets/shopping_cart_widget.php:78
 #: wpsc-widgets/shopping_cart_widget.php:83
 msgid "Loading..."
-msgstr ""
+msgstr "Đang tải..."
 
 #: wpsc-widgets/shopping_cart_widget.php:143
 msgid "Use Sliding Cart:"
-msgstr ""
+msgstr "Sử dụng giỏ hàng Sliding:"
 
 #: wpsc-widgets/product_tag_widget.php:19
 msgid "Product Tags Widget"
@@ -1537,12 +1537,12 @@ msgstr ""
 #: wpsc-widgets/tagging_functions.php:94
 msgid "%d topic"
 msgid_plural "%d topics"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d chủ đề"
+msgstr[1] "%d chủ đề"
 
 #: wpsc-admin/display-debug.page.php:42
 msgid "Update Page URLs"
-msgstr ""
+msgstr "Cập nhật URL của trang"
 
 #: wpsc-admin/display-debug.page.php:45
 msgid "Fix Product Group Permalinks"
@@ -1550,67 +1550,67 @@ msgstr ""
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:35
 msgid "Select an Option"
-msgstr ""
+msgstr "Chọn một mục"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:36
 msgid "Billing First Name"
-msgstr ""
+msgstr "Tên người thanh toán"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:37
 msgid "Billing Last Name"
-msgstr ""
+msgstr "Họ người thanh toán"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:38
 msgid "Billing Address"
-msgstr ""
+msgstr "Địa chỉ thanh toán"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:39
 msgid "Billing City"
-msgstr ""
+msgstr "Thành phố"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:41
 msgid "Billing Country"
-msgstr ""
+msgstr "Quốc gia"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:42
 msgid "Billing Email"
-msgstr ""
+msgstr "Email thanh toán"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:43
 msgid "Billing Phone"
-msgstr ""
+msgstr "Điện thoại thanh toán"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:44
 msgid "Billing Post Code"
-msgstr ""
+msgstr "Post Code"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:45
 msgid "Shipping First Name"
-msgstr ""
+msgstr "Tên người nhận hàng"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:46
 msgid "Shipping Last Name"
-msgstr ""
+msgstr "Họ người nhận hàng"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:48
 msgid "Shipping City"
-msgstr ""
+msgstr "Thành phố"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:49
 msgid "Shipping State"
-msgstr ""
+msgstr "Quận"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:50
 msgid "Shipping Country"
-msgstr ""
+msgstr "Quốc gia"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:51
 msgid "Shipping Post Code"
-msgstr ""
+msgstr "Post Code"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:62
 msgid "Check Out Form Fields updated."
-msgstr ""
+msgstr "Check Out Form Fields đã cập nhật."
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:68
 msgid "Sales Upgrade Fix"
@@ -1629,42 +1629,42 @@ msgstr ""
 #: wpsc-admin/includes/purchlogs_upgrade.php:100
 #: wpsc-admin/display-sales-logs.php:298
 msgid "Apply"
-msgstr ""
+msgstr "Áp dụng"
 
 #: wpsc-admin/includes/save-data.functions.php:71
 msgid "Image"
-msgstr ""
+msgstr "Hình ảnh"
 
 #: wpsc-admin/includes/save-data.functions.php:141
 #: wpsc-admin/includes/save-data.functions.php:348 wpsc-admin/admin.php:310
 msgid "Advanced Settings"
-msgstr ""
+msgstr "Cài đặt nâng cao"
 
 #: wpsc-admin/includes/save-data.functions.php:144
 msgid "Presentation Settings"
-msgstr ""
+msgstr "Cài đặt trình bày"
 
 #: wpsc-admin/includes/save-data.functions.php:149
 #: wpsc-admin/includes/save-data.functions.php:409
 msgid "Category Image"
-msgstr ""
+msgstr "Hình ảnh Danh mục"
 
 #: wpsc-admin/includes/save-data.functions.php:157
 #: wpsc-admin/includes/save-data.functions.php:354
 msgid "Catalog View"
-msgstr ""
+msgstr "Xem dạng Catalog"
 
 #: wpsc-admin/includes/save-data.functions.php:193
 #: wpsc-admin/includes/save-data.functions.php:390
 #: wpsc-includes/form-display.functions.php:9
 msgid "Please select"
-msgstr ""
+msgstr "Vui lòng chọn"
 
 #: wpsc-admin/includes/save-data.functions.php:194
 #: wpsc-admin/includes/save-data.functions.php:391
 #: wpsc-admin/includes/settings-pages/presentation.php:472
 msgid "Default View"
-msgstr ""
+msgstr "Xem mặc định"
 
 #: wpsc-admin/includes/save-data.functions.php:197
 #: wpsc-admin/includes/save-data.functions.php:199
@@ -1673,7 +1673,7 @@ msgstr ""
 #: wpsc-admin/includes/settings-pages/presentation.php:476
 #: wpsc-admin/includes/settings-pages/presentation.php:480
 msgid "List View"
-msgstr ""
+msgstr "Xem dạng danh sách"
 
 #: wpsc-admin/includes/save-data.functions.php:202
 #: wpsc-admin/includes/save-data.functions.php:204
@@ -1682,7 +1682,7 @@ msgstr ""
 #: wpsc-admin/includes/settings-pages/presentation.php:486
 #: wpsc-admin/includes/settings-pages/presentation.php:490
 msgid "Grid View"
-msgstr ""
+msgstr "Xem dạng lưới"
 
 #: wpsc-admin/includes/save-data.functions.php:211
 #: wpsc-admin/includes/save-data.functions.php:404
@@ -1703,7 +1703,7 @@ msgstr ""
 #: wpsc-admin/includes/settings-pages/presentation.php:1126
 #: wpsc-admin/includes/display-items-functions.php:597
 msgid "Width"
-msgstr ""
+msgstr "Chiều rộng"
 
 #: wpsc-admin/includes/save-data.functions.php:222
 #: wpsc-admin/includes/save-data.functions.php:424
@@ -1713,7 +1713,7 @@ msgstr ""
 #: wpsc-admin/includes/settings-pages/presentation.php:1127
 #: wpsc-admin/includes/display-items-functions.php:584
 msgid "Height"
-msgstr ""
+msgstr "Chiều cao"
 
 #: wpsc-admin/includes/save-data.functions.php:233
 #: wpsc-admin/includes/save-data.functions.php:455
@@ -1738,36 +1738,40 @@ msgstr ""
 #: wpsc-admin/includes/save-data.functions.php:273
 #: wpsc-admin/includes/save-data.functions.php:496
 msgid "Checkout Settings"
-msgstr ""
+msgstr "Cài đặt Checkout"
 
 #: wpsc-admin/includes/save-data.functions.php:281
 msgid "This category requires additional checkout form fields"
-msgstr ""
+msgstr "Danh mục này cần được bổ sung thêm trường checkout "
 
 #: wpsc-admin/includes/save-data.functions.php:285
 #: wpsc-admin/includes/save-data.functions.php:475
 #: wpsc-admin/includes/save-data.functions.php:513
 msgid "None"
-msgstr ""
+msgstr "Không có"
 
 #: wpsc-admin/includes/save-data.functions.php:305
 #: wpsc-admin/includes/save-data.functions.php:530
 msgid "Products in this category use the billing address to calculate shipping"
 msgstr ""
+"Sản phẩm trong danh mục này sử dụng địa chỉ thanh toán để tính toán phí vận "
+"chuyển"
 
 #: wpsc-admin/includes/save-data.functions.php:413
 msgid "Delete Image"
-msgstr ""
+msgstr "Xóa hình ảnh"
 
 #: wpsc-admin/includes/save-data.functions.php:414
 msgid ""
 "You can set an image for the category here.  If one exists, check the box to "
 "delete."
 msgstr ""
+"Bạn có thể thêm một hình ảnh cho danh mục này tại đây. Nếu hình đã có, check "
+"để xóa."
 
 #: wpsc-admin/includes/save-data.functions.php:420
 msgid "Thumbnail Size"
-msgstr ""
+msgstr "Kích thước hình đại diện"
 
 #: wpsc-admin/includes/save-data.functions.php:429
 msgid "Shortcodes and Template Tags"
@@ -1803,27 +1807,27 @@ msgstr ""
 
 #: wpsc-admin/includes/save-data.functions.php:475
 msgid "Select"
-msgstr ""
+msgstr "Chọn"
 
 #: wpsc-admin/includes/save-data.functions.php:475
 msgid "All"
-msgstr ""
+msgstr "Tất cả"
 
 #: wpsc-admin/includes/save-data.functions.php:489
 msgid "Select the markets you are selling this category to."
-msgstr ""
+msgstr "Chọn thị trường mà bạn đang bán trong danh mục này."
 
 #: wpsc-admin/includes/save-data.functions.php:509
 msgid "Category requires additional checkout form fields"
-msgstr ""
+msgstr "Danh mục cần bổ sung thêm trường checkout"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:48
 msgid "Advanced Theme Settings"
-msgstr ""
+msgstr "Cài đặt giao diện nâng cao"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:56
 msgid "You did not specify any template files to be moved."
-msgstr ""
+msgstr "Bạn đã không chỉ định bất kỳ tập tin mẫu nào để được di chuyển."
 
 #: wpsc-admin/includes/settings-pages/presentation.php:66
 msgid ""
@@ -1833,7 +1837,7 @@ msgstr ""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:68
 msgid "Thanks, the themes have been copied."
-msgstr ""
+msgstr "Cám ơn, giao diện đã được sao chép."
 
 #: wpsc-admin/includes/settings-pages/presentation.php:78
 msgid ""
@@ -1890,19 +1894,19 @@ msgstr ""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:163
 msgid "Show All Products"
-msgstr ""
+msgstr "Hiển thị tất cả sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:170
 msgid "Show list of product categories"
-msgstr ""
+msgstr "Hiển thị danh sách các danh mục sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:216
 msgid "Button Settings"
-msgstr ""
+msgstr "Nút cài đặt"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:220
 msgid "Button Type"
-msgstr ""
+msgstr "Loại nút"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:243
 msgid ""
@@ -1912,15 +1916,15 @@ msgstr ""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:252
 msgid "Hide \"Add to cart\" button"
-msgstr ""
+msgstr "Ẩn nút \"Thêm vào giỏ\""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:274
 msgid "Product Settings"
-msgstr ""
+msgstr "Cài đặt sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:279
 msgid "Show Product Ratings"
-msgstr ""
+msgstr "Hiển thị đánh giá sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:309
 msgid "Show Stock Availability"
@@ -1932,23 +1936,23 @@ msgstr ""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:342
 msgid "Display per item shipping"
-msgstr ""
+msgstr "Hiển thị mỗi mục vận chuyển"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:364
 msgid "Disable link in Title"
-msgstr ""
+msgstr "Tắt tiêu đề của liên kết"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:388
 msgid "Add quantity field to each product description"
-msgstr ""
+msgstr "Thêm trường Số lượng cho mỗi mô tả sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:417
 msgid "Product Page Settings"
-msgstr ""
+msgstr "Cài đặt trang Sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:420
 msgid "Product Display"
-msgstr ""
+msgstr "Sản phẩm hiển thị"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:497
 msgid "Purchase unavailable options"
@@ -1956,11 +1960,11 @@ msgstr ""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:507
 msgid "Products Per Row"
-msgstr ""
+msgstr "Sản phẩm trên từng dòng"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:511
 msgid "Show images only"
-msgstr ""
+msgstr "Chỉ hiển thị hình ảnh"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:515
 msgid "Display Variations"
@@ -1968,79 +1972,79 @@ msgstr ""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:519
 msgid "Display Description"
-msgstr ""
+msgstr "Hiển thị mô tả"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:523
 msgid "Display \"Add To Cart\" Button"
-msgstr ""
+msgstr "Hiển thị nút  \"Thêm vào giỏ\""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:527
 msgid "Display \"More Details\" Button"
-msgstr ""
+msgstr "Hiển thị nút \"Chi tiết\""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:539
 msgid "Show list of categories"
-msgstr ""
+msgstr "Hiển thị danh sách các danh mục"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:548
 msgid "Select what product category you want to display on the products page"
-msgstr ""
+msgstr "Lựa chọn danh mục sản phẩm mà bạn muốn hiển thị ra trang Sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:576
 msgid "Sort Product By"
-msgstr ""
+msgstr "Sắp xếp Sản phẩm theo"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:585
 msgid "Drag &amp; Drop"
-msgstr ""
+msgstr "Kéo &amp; Thả"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:587
 msgid "Time Uploaded"
-msgstr ""
+msgstr "Thời gian tải lên"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:593
 msgid "Show Breadcrumbs"
-msgstr ""
+msgstr "Hiển thị Breadcrumbs"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:618
 msgid "Product Groups/Products Display"
-msgstr ""
+msgstr "Nhóm sản phẩm/Sản phẩm hiển thị"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:635
 msgid "Product Groups Only (All products displayed)"
-msgstr ""
+msgstr "Chỉ nhóm sản phẩm (Tất cả sản phẩm đã hiển thị)"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:636
 msgid "Sliding Product Groups (1 product per page)"
-msgstr ""
+msgstr "Nhóm sản phẩm trượt (1 sản phẩm cho 1 trang)"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:642
 msgid "Show Subcategory Products in Parent Category"
-msgstr ""
+msgstr "Hiển thị Danh mục sản phẩm con trong Danh mục cha"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:667
 msgid "Show Search"
-msgstr ""
+msgstr "Hiển thị tìm kiếm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:708
 msgid "Show Advanced Search"
-msgstr ""
+msgstr "Hiển thị Tìm kiếm nâng cao"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:711
 msgid "Use Live Search"
-msgstr ""
+msgstr "Sử dụng Live Search"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:721
 msgid "Replace Page Title With Product/Category Name"
-msgstr ""
+msgstr "Thay thế tiêu đề trang bằng tên sản phẩm/tên danh mục"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:742
 msgid "Display Featured Product above Product Pages"
-msgstr ""
+msgstr "Hiển thị Sản phẩm nổi bật trên trang Sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:765
 msgid "Shopping Cart Settings"
-msgstr ""
+msgstr "Cài đặt Giỏ hàng"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:768
 msgid "Cart Location"
@@ -2048,7 +2052,7 @@ msgstr ""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:794
 msgid "Page"
-msgstr ""
+msgstr "Trang"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:798
 #: wpsc-admin/includes/settings-pages/presentation.php:802
@@ -2058,7 +2062,7 @@ msgstr ""
 #: wpsc-admin/includes/settings-pages/presentation.php:802
 #: wpsc-admin/includes/settings-pages/presentation.php:812
 msgid "You need to enable the widgets plugin to use this"
-msgstr ""
+msgstr "Bạn phải bật widget plugin để sử dụng chức năng này"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:808
 #: wpsc-admin/includes/settings-pages/presentation.php:813
@@ -2069,27 +2073,27 @@ msgstr ""
 #: wpsc-admin/includes/settings-pages/presentation.php:812
 #: wpsc-admin/includes/settings-pages/presentation.php:813
 msgid "You need to install the Gold and DropShop extentions to use this"
-msgstr ""
+msgstr "Bạn cần cài đặt Gold và DropShop để sử dụng chức năng này"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:818
 msgid "Manual"
-msgstr ""
+msgstr "Hướng dẫn"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:827
 msgid "Show Dropshop on every page"
-msgstr ""
+msgstr "Hiển thị DropShop trên mọi trang"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:830
 msgid "Show Dropshop only on product page"
-msgstr ""
+msgstr "Chỉ hiển thị DropShop trên trang Sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:835
 msgid "Use light Dropshop style"
-msgstr ""
+msgstr "Sử dụng kiểu DropShop sáng"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:838
 msgid "Use dark Dropshop style"
-msgstr ""
+msgstr "Sử dụng kiểu DropShop tối"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:841
 msgid "Crafty"
@@ -2101,7 +2105,7 @@ msgstr ""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:873
 msgid "Product Category Settings"
-msgstr ""
+msgstr "Cài đặt Danh mục sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:877
 msgid "Show Product Category Description"
