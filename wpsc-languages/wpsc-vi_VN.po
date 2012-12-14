@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2012-12-06 17:28+0700\n"
+"PO-Revision-Date: 2012-12-10 12:01+0700\n"
 "Last-Translator: Duan Le <socbac.net@gmail.com>\n"
 "Language-Team: SocBac\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
@@ -82,8 +82,7 @@ msgid "Personalize Your Product"
 msgstr "Cá nhân hóa sản phẩm của bạn"
 
 #: wpsc-theme/wpsc-single_product.php:80
-msgid ""
-"Complete this form to include a personalized message with your purchase."
+msgid "Complete this form to include a personalized message with your purchase."
 msgstr "Điền thông tin để xác nhận đơn hàng của bạn."
 
 #: wpsc-theme/wpsc-single_product.php:88
@@ -209,10 +208,8 @@ msgstr "Vui lòng chọn tên quốc gia từ danh sách."
 
 #: wpsc-theme/functions/wpsc-user_log_functions.php:95
 #: wpsc-includes/checkout.class.php:844
-msgid ""
-"Please enter a valid <span class=\"wpsc_error_msg_field_name\">%s</span>."
-msgstr ""
-"Vui lòng nhập đúng <span class=\"wpsc_error_msg_field_name\">%s</span>."
+msgid "Please enter a valid <span class=\"wpsc_error_msg_field_name\">%s</span>."
+msgstr "Vui lòng nhập đúng <span class=\"wpsc_error_msg_field_name\">%s</span>."
 
 #: wpsc-theme/functions/wpsc-user_log_functions.php:109
 msgid "Thanks, your changes have been saved."
@@ -297,12 +294,8 @@ msgid "Transaction Id"
 msgstr "Mã số giao dịch"
 
 #: wpsc-theme/functions/wpsc-transaction_results_functions.php:57
-msgid ""
-"Sorry your transaction was not accepted.<br /><a href=\"%1$s\">Click here to "
-"go back to checkout page</a>."
-msgstr ""
-"Xin lỗi, giao dịch của bạn chưa được chấp nhận.<br /><a href=\"%1$s\">Quay "
-"lại trang Thanh toán</a>."
+msgid "Sorry your transaction was not accepted.<br /><a href=\"%1$s\">Click here to go back to checkout page</a>."
+msgstr "Xin lỗi, giao dịch của bạn chưa được chấp nhận.<br /><a href=\"%1$s\">Quay lại trang Thanh toán</a>."
 
 #: wpsc-theme/functions/wpsc-transaction_results_functions.php:103
 #: wpsc-theme/functions/wpsc-transaction_results_functions.php:104
@@ -365,12 +358,8 @@ msgstr "Mã số giao dịch"
 
 #: wpsc-theme/functions/wpsc-transaction_results_functions.php:299
 #: wpsc-theme/functions/wpsc-transaction_results_functions.php:300
-msgid ""
-"Thank you, your purchase is pending, you will be sent an email once the "
-"order clears."
-msgstr ""
-"Xin cám ơn, đơn  hàng của bạn đang chờ xét duyệt, bạn sẽ nhận được một email "
-"ghi rõ thông tin giao dịch."
+msgid "Thank you, your purchase is pending, you will be sent an email once the order clears."
+msgstr "Xin cám ơn, đơn  hàng của bạn đang chờ xét duyệt, bạn sẽ nhận được một email ghi rõ thông tin giao dịch."
 
 #: wpsc-theme/functions/wpsc-transaction_results_functions.php:302
 msgid "Order Pending: Payment Required"
@@ -461,12 +450,8 @@ msgid "There have not been any purchases yet."
 msgstr "Chưa có đơn hàng nào."
 
 #: wpsc-theme/wpsc-user-log.php:143
-msgid ""
-"You must be logged in to use this page. Please use the form below to login "
-"to your account."
-msgstr ""
-"Bạn phải đăng nhập để sử dụng trang này. Vui lòng nhập thông tin dưới đây để "
-"đăng nhập."
+msgid "You must be logged in to use this page. Please use the form below to login to your account."
+msgstr "Bạn phải đăng nhập để sử dụng trang này. Vui lòng nhập thông tin dưới đây để đăng nhập."
 
 #: wpsc-theme/wpsc-user-log.php:147
 msgid "Username:"
@@ -569,12 +554,8 @@ msgid "Please provide a Zipcode and click Calculate in order to continue."
 msgstr "Vui lòng nhập một Zipcode và nhấp vào Tính trong đơn hàng để tiếp tục."
 
 #: wpsc-theme/wpsc-shopping_cart_page.php:141
-msgid ""
-"Sorry, online ordering is unavailable to this destination and/or weight. "
-"Please double check your destination details."
-msgstr ""
-"Xin lỗi, đặt hàng trực tuyến là không hợp lệ đối với đích đến hoặc trọng "
-"lượng. Hãy kiểm tra chi tiết điểm đến của bạn."
+msgid "Sorry, online ordering is unavailable to this destination and/or weight. Please double check your destination details."
+msgstr "Xin lỗi, đặt hàng trực tuyến là không hợp lệ đối với đích đến hoặc trọng lượng. Hãy kiểm tra chi tiết điểm đến của bạn."
 
 #: wpsc-theme/wpsc-shopping_cart_page.php:159
 msgid " - Choose a Shipping Rate"
@@ -609,13 +590,8 @@ msgid "E-mail"
 msgstr "E-mail"
 
 #: wpsc-theme/wpsc-shopping_cart_page.php:261
-msgid ""
-"Signing up is free and easy! please fill out your details your registration "
-"will happen automatically as you checkout. Don't forget to use your details "
-"to login with next time!"
-msgstr ""
-"Việc đăng ký là miễn phí và rất dễ dàng! Vui lòng điền thông tin của bạn và "
-"đăng ký để dễ dàng thanh toán. Đừng quên sử dụng thông tin chính xác nhé!"
+msgid "Signing up is free and easy! please fill out your details your registration will happen automatically as you checkout. Don't forget to use your details to login with next time!"
+msgstr "Việc đăng ký là miễn phí và rất dễ dàng! Vui lòng điền thông tin của bạn và đăng ký để dễ dàng thanh toán. Đừng quên sử dụng thông tin chính xác nhé!"
 
 #: wpsc-theme/wpsc-shopping_cart_page.php:308
 msgid "Same as billing address:"
@@ -654,12 +630,8 @@ msgid "Payment Type"
 msgstr "Loại thanh toán"
 
 #: wpsc-theme/wpsc-shopping_cart_page.php:443
-msgid ""
-"I agree to The <a class='thickbox' target='_blank' href='%s' "
-"class='termsandconds'>Terms and Conditions</a>"
-msgstr ""
-"Tôi đồng ý với <a class='thickbox' target='_blank' href='%s' "
-"class='termsandconds'>Điều khoản và Điều kiện</a>"
+msgid "I agree to The <a class='thickbox' target='_blank' href='%s' class='termsandconds'>Terms and Conditions</a>"
+msgstr "Tôi đồng ý với <a class='thickbox' target='_blank' href='%s' class='termsandconds'>Điều khoản và Điều kiện</a>"
 
 #: wpsc-theme/wpsc-shopping_cart_page.php:453
 msgid "Review and purchase"
@@ -675,17 +647,11 @@ msgstr "Purchase"
 
 #: wpsc-core/wpsc-installer.php:159
 msgid ""
-"Thank you for purchasing with %shop_name%, any items to be shipped will be "
-"processed as soon as possible, any items that can be downloaded can be "
-"downloaded using the links on this page.All prices include tax and postage "
-"and packaging where applicable.\n"
+"Thank you for purchasing with %shop_name%, any items to be shipped will be processed as soon as possible, any items that can be downloaded can be downloaded using the links on this page.All prices include tax and postage and packaging where applicable.\n"
 "\tYou ordered these items: \n"
 "\t%product_list%%total_shipping%%total_price%"
 msgstr ""
-"Cám ơn bạn đã tham gia mua hàng của %shop_name%, bất kỳ mục nào cần vận "
-"chuyển chúng tôi sẽ xử lý nhanh nhất có thể, bất kỳ mục nào cần tải về đã "
-"được tải trong trang này. Giá trên đã bao gồm Bưu kiện, Thuế và phí đóng gói "
-"sản phẩm.\n"
+"Cám ơn bạn đã tham gia mua hàng của %shop_name%, bất kỳ mục nào cần vận chuyển chúng tôi sẽ xử lý nhanh nhất có thể, bất kỳ mục nào cần tải về đã được tải trong trang này. Giá trên đã bao gồm Bưu kiện, Thuế và phí đóng gói sản phẩm.\n"
 "\tBạn đã mua các mục: \n"
 "\t%product_list%%total_shipping%%total_price%"
 
@@ -786,8 +752,7 @@ msgid "Add sale products by category"
 msgstr "Thêm sản phẩm bán bởi danh mục"
 
 #: wpsc-core/js/tinymce3/window.php:90
-msgid ""
-"This will add all your products you have on sale from the selected category"
+msgid "This will add all your products you have on sale from the selected category"
 msgstr "Điều này sẽ thêm tất cả sản phẩm bạn có để bán từ danh mục đã chọn"
 
 #: wpsc-core/js/tinymce3/window.php:102
@@ -812,41 +777,24 @@ msgid "Number of Products to be displayed in the slider."
 msgstr "Số sản phẩm được hiển thị trong Slider."
 
 #: wpsc-core/js/tinymce3/window.php:132
-msgid ""
-"You don't have the product slider installed, for a cool way to display your "
-"shop check out the <a href=\"http://getshopped.org/extend/premium-upgrades/"
-"premium-upgrades/product-slider-2010/\" target=\"_blank\">Product Slider</a>"
-msgstr ""
+msgid "You don't have the product slider installed, for a cool way to display your shop check out the <a href=\"http://getshopped.org/extend/premium-upgrades/premium-upgrades/product-slider-2010/\" target=\"_blank\">Product Slider</a>"
+msgstr "Bạn không có sản phẩm trong thanh trượt, cho việc hiển thị đẹp mắt trên Shop của bạn như là <a href=\"http://getshopped.org/extend/premium-upgrades/premium-upgrades/product-slider-2010/\" target=\"_blank\">Tranh trượt Sản phẩm</a>"
 
 #: wpsc-core/js/tinymce3/window.php:139
 msgid "Members and Capabilities"
 msgstr "Members and Capabilities"
 
 #: wpsc-core/js/tinymce3/window.php:144
-msgid ""
-"<p> To create a preview on your restricted page put this shortcode at the "
-"top of your page. you can include html within this short code to display "
-"things like images "
-msgstr ""
-"<p> Để tạo ra một bản xem trước hạn chế trên trang của bạn, đặt shortcode ở "
-"phía trên cùng của trang của bạn. bạn có thể bao gồm html trong mã này ngắn "
-"để hiển thị những thứ như hình ảnh"
+msgid "<p> To create a preview on your restricted page put this shortcode at the top of your page. you can include html within this short code to display things like images "
+msgstr "<p> Để tạo ra một bản xem trước hạn chế trên trang của bạn, đặt shortcode ở phía trên cùng của trang của bạn. bạn có thể bao gồm html trong mã này ngắn để hiển thị những thứ như hình ảnh"
 
 #: wpsc-core/js/tinymce3/window.php:145
 msgid "[preview] Preview In Here [/preview]"
 msgstr "[preview] Xem trước tại đây [/preview]"
 
 #: wpsc-core/js/tinymce3/window.php:149
-msgid ""
-" You don't have the Members and Capabilities plugin installed, to start "
-"managing your users and creating subscription for you site visit: <a href="
-"\"http://getshopped.org/extend/premium-upgrades/premium-upgrades/product-"
-"slider-2010/\" target=\"_blank\">Premium Upgrades</a>"
-msgstr ""
-" You don't have the Members and Capabilities plugin installed, to start "
-"managing your users and creating subscription for you site visit: <a href="
-"\"http://getshopped.org/extend/premium-upgrades/premium-upgrades/product-"
-"slider-2010/\" target=\"_blank\">Premium Upgrades</a>"
+msgid " You don't have the Members and Capabilities plugin installed, to start managing your users and creating subscription for you site visit: <a href=\"http://getshopped.org/extend/premium-upgrades/premium-upgrades/product-slider-2010/\" target=\"_blank\">Premium Upgrades</a>"
+msgstr " You don't have the Members and Capabilities plugin installed, to start managing your users and creating subscription for you site visit: <a href=\"http://getshopped.org/extend/premium-upgrades/premium-upgrades/product-slider-2010/\" target=\"_blank\">Premium Upgrades</a>"
 
 #: wpsc-core/js/tinymce3/window.php:158
 msgid "Select a Product"
@@ -870,12 +818,8 @@ msgid "Add a buy now button"
 msgstr "Thêm một nút Mua Ngay"
 
 #: wpsc-core/js/tinymce3/window.php:178
-msgid ""
-"This adds a paypal buy now button for the product selected, this will take "
-"your customer straight to PayPal."
-msgstr ""
-"Điều này sẽ thêm một nút Mua Ngay bằng PayPal với sản phẩm đã chọn, khách "
-"hàng sẽ được chuyển trực tiếp tới trang PayPal."
+msgid "This adds a paypal buy now button for the product selected, this will take your customer straight to PayPal."
+msgstr "Điều này sẽ thêm một nút Mua Ngay bằng PayPal với sản phẩm đã chọn, khách hàng sẽ được chuyển trực tiếp tới trang PayPal."
 
 #: wpsc-core/js/tinymce3/window.php:185
 msgid "Add an add to cart button"
@@ -930,13 +874,8 @@ msgid "Please backup your website before updating!"
 msgstr "Nhớ sao lưu dữ liệu website trước khi cập nhật!"
 
 #: wpsc-core/wpsc-functions.php:241
-msgid ""
-"Lots of things have changed in this version. Before updating please backup "
-"your database and files in case anything goes wrong."
-msgstr ""
-"Rất nhiều thứ đã thay đổi trong phiên bản này. Trước khi cập nhật, xin vui "
-"lòng sao lưu cơ sở dữ liệu của bạn và các tập tin trong trường hợp có lỗi "
-"xảy ra."
+msgid "Lots of things have changed in this version. Before updating please backup your database and files in case anything goes wrong."
+msgstr "Rất nhiều thứ đã thay đổi trong phiên bản này. Trước khi cập nhật, xin vui lòng sao lưu cơ sở dữ liệu của bạn và các tập tin trong trường hợp có lỗi xảy ra."
 
 #: wpsc-core/wpsc-functions.php:266
 msgctxt "post type name"
@@ -1105,74 +1044,68 @@ msgid "New Variation Name"
 msgstr "Tên Variation mới"
 
 #: wpsc-merchants/testmode.merchant.php:46
-msgid ""
-"Enter the payment instructions that you wish to display to your customers "
-"when they make a purchase"
-msgstr ""
+msgid "Enter the payment instructions that you wish to display to your customers when they make a purchase"
+msgstr "Nhập các hướng dẫn thanh toán mà bạn muốn hiển thị cho khách hàng của bạn khi họ thực hiện mua hàng"
 
 #: wpsc-merchants/testmode.merchant.php:48
-msgid ""
-"For example, this is where you the Shop Owner might enter your bank account "
-"details or address so that your customer can make their manual payment."
-msgstr ""
+msgid "For example, this is where you the Shop Owner might enter your bank account details or address so that your customer can make their manual payment."
+msgstr "Ví dụ, đây là nơi bạn là chủ Shop có thể nhập chi tiết tài khoản ngân hàng hoặc địa chỉ để khách hàng của bạn có thể thanh toán theo hướng dẫn."
 
 #: wpsc-merchants/paypal-pro.merchant.php:147
 msgid "There was a problem connecting to the payment gateway."
-msgstr ""
+msgstr "Có một lỗi kết nối với cổng thanh toán."
 
 #: wpsc-merchants/paypal-pro.merchant.php:163
-msgid ""
-"There is a problem with your PayPal account configuration, please contact "
-"PayPal for further information."
-msgstr ""
+msgid "There is a problem with your PayPal account configuration, please contact PayPal for further information."
+msgstr "Có một vấn đề với cấu hình tài khoản PayPal của bạn, xin vui lòng liên hệ với PayPal để biết thêm thông tin."
 
 #: wpsc-merchants/paypal-pro.merchant.php:327
 msgid "API Username:"
-msgstr ""
+msgstr "Tên đăng nhập API:"
 
 #: wpsc-merchants/paypal-pro.merchant.php:335
 msgid "API Password:"
-msgstr ""
+msgstr "Mật khẩu API:"
 
 #: wpsc-merchants/paypal-pro.merchant.php:343
 msgid "API Signature:"
-msgstr ""
+msgstr "Chữ kí API:"
 
 #: wpsc-merchants/paypal-pro.merchant.php:351
 msgid "Test Mode Enabled:"
-msgstr ""
+msgstr "Kiểm tra tính khả thi:"
 
 #: wpsc-merchants/paypal-pro.merchant.php:375
 msgid "Credit Card Number *"
-msgstr ""
+msgstr "Số thẻ tín dụng *"
 
 #: wpsc-merchants/paypal-pro.merchant.php:381
 msgid "Credit Card Expiry *"
-msgstr ""
+msgstr "Ngày hết hạn thẻ tín dụng *"
 
 #: wpsc-merchants/paypal-pro.merchant.php:404
 msgid "CVV *"
-msgstr ""
+msgstr "CVV *"
 
 #: wpsc-merchants/paypal-pro.merchant.php:409
 msgid "Card Type *"
-msgstr ""
+msgstr "Loại thẻ *"
 
 #: wpsc-merchants/paypal-pro.merchant.php:412
 msgid "Visa"
-msgstr ""
+msgstr "Visa"
 
 #: wpsc-merchants/paypal-pro.merchant.php:413
 msgid "MasterCard"
-msgstr ""
+msgstr "MasterCard"
 
 #: wpsc-merchants/paypal-pro.merchant.php:414
 msgid "Discover"
-msgstr ""
+msgstr "Discover"
 
 #: wpsc-merchants/paypal-pro.merchant.php:415
 msgid "Amex"
-msgstr ""
+msgstr "Amex"
 
 #: wpsc-merchants/chronopay.php:436
 #: wpsc-merchants/paypal-standard.merchant.php:532
@@ -1274,7 +1207,7 @@ msgstr "Cập nhật &raquo;"
 
 #: wpsc-merchants/library/google_shipping_country.php:7
 msgid "Google Shipping Country"
-msgstr ""
+msgstr "Quốc gia nhận hàng qua Google"
 
 #: wpsc-merchants/library/google_shipping_country.php:44
 #: wpsc-admin/includes/settings-pages/checkout.php:225
@@ -1292,32 +1225,28 @@ msgid "Currency Converter"
 msgstr "Chuyển đổi tiền tệ"
 
 #: wpsc-merchants/paypal-standard.merchant.php:583
-msgid ""
-"Your website uses <strong>%s</strong>. This currency is not supported by "
-"PayPal, please  select a currency using the drop down menu below. Buyers on "
-"your site will still pay in your local currency however we will send the "
-"order through to Paypal using the currency you choose below."
-msgstr ""
+msgid "Your website uses <strong>%s</strong>. This currency is not supported by PayPal, please  select a currency using the drop down menu below. Buyers on your site will still pay in your local currency however we will send the order through to Paypal using the currency you choose below."
+msgstr "Website của bạn sử dụng <strong>%s</strong>. Hiện tại không hỗ trợ PayPal, vui lòng chọn 1 loại tiền tệ sử dụng drop down menu bên dưới. Người mua hàng trên trang web này vẫn sẽ phải trả tiền tệ địa phương của bạn, tuy nhiên chúng tôi sẽ gửi đơn hàng tới Paypal bằng cách sử dụng các loại tiền tệ bạn chọn bên dưới."
 
 #: wpsc-merchants/paypal-express.merchant.php:12
 msgid "PayPal Express Checkout 2.0"
-msgstr ""
+msgstr "PayPal Express Checkout 2.0"
 
 #: wpsc-merchants/paypal-express.merchant.php:18
 msgid "PayPal Express"
-msgstr ""
+msgstr "PayPal Express"
 
 #: wpsc-merchants/paypal-express.merchant.php:256
 msgid "API Username"
-msgstr ""
+msgstr "Tên đăng nhập API"
 
 #: wpsc-merchants/paypal-express.merchant.php:263
 msgid "API Password"
-msgstr ""
+msgstr "Mật khẩu API"
 
 #: wpsc-merchants/paypal-express.merchant.php:270
 msgid "API Signature"
-msgstr ""
+msgstr "Chữ ký API"
 
 #: wpsc-merchants/paypal-express.merchant.php:277
 msgid "Server Type"
@@ -1325,19 +1254,15 @@ msgstr "Loại máy chủ"
 
 #: wpsc-merchants/paypal-express.merchant.php:280
 msgid "Sandbox (For testing)"
-msgstr ""
+msgstr "Sandbox (dùng để test)"
 
 #: wpsc-merchants/paypal-express.merchant.php:281
 msgid "Production"
 msgstr "Sản xuất"
 
 #: wpsc-merchants/paypal-express.merchant.php:295
-msgid ""
-"Your website is using a currency not accepted by PayPal, select an accepted "
-"currency using the drop down menu bellow. Buyers on your site will still pay "
-"in your local currency however we will convert the currency and send the "
-"order through to PayPal using the currency you choose below."
-msgstr ""
+msgid "Your website is using a currency not accepted by PayPal, select an accepted currency using the drop down menu bellow. Buyers on your site will still pay in your local currency however we will convert the currency and send the order through to PayPal using the currency you choose below."
+msgstr "Trang web của bạn đang sử dụng một loại tiền tệ không được PayPal chấp nhận, chọn một loại tiền tệ được chấp nhận bằng cách sử dụng trình đơn drop down bên dưới. Người mua hàng trên trang web của bạn vẫn sẽ phải trả bằng nội tệ, tuy nhiên chúng tôi sẽ chuyển đổi tiền tệ và gửi đơn đặt hàng cho PayPal bằng cách sử dụng các loại tiền tệ bạn chọn bên dưới."
 
 #: wpsc-merchants/paypal-express.merchant.php:298
 msgid "Convert to"
@@ -1345,7 +1270,7 @@ msgstr "Chuyển đổi tới"
 
 #: wpsc-merchants/paypal-express.merchant.php:378
 msgid "The PayPal API has returned an error!"
-msgstr ""
+msgstr "PayPal API trả về một lỗi!"
 
 #: wpsc-merchants/paypal-express.merchant.php:423
 #: wpsc-merchants/paypal-express.merchant.php:602
@@ -1394,7 +1319,7 @@ msgstr "Xác nhận thanh toán"
 
 #: wpsc-widgets/category_widget.php:17
 msgid "Product Grouping Widget"
-msgstr ""
+msgstr "Widget Nhóm Sản Phẩm"
 
 #: wpsc-widgets/category_widget.php:19 wpsc-widgets/category_widget.php:34
 msgid "Product Categories"
@@ -1445,20 +1370,20 @@ msgstr "Chiều cao:"
 
 #: wpsc-widgets/donations_widget.php:19
 msgid "Donations Widget"
-msgstr ""
+msgstr "Widget Quyên Góp"
 
 #: wpsc-widgets/donations_widget.php:22 wpsc-widgets/donations_widget.php:49
 #: wpsc-widgets/donations_widget.php:87
 msgid "Product Donations"
-msgstr ""
+msgstr "Sản Phẩm Quyên Góp"
 
 #: wpsc-widgets/admin_menu_widget.php:18
 msgid "Admin Menu Widget"
-msgstr ""
+msgstr "Admin Menu Widget"
 
 #: wpsc-widgets/admin_menu_widget.php:21 wpsc-widgets/admin_menu_widget.php:41
 msgid "Admin Menu"
-msgstr ""
+msgstr "Admin Menu"
 
 #: wpsc-widgets/latest_product_widget.php:15
 msgid "Latest Products Widget"
@@ -1476,7 +1401,7 @@ msgstr "Số sản phẩm được hiển thị:"
 
 #: wpsc-widgets/price_range_widget.php:19
 msgid "Price Range Widget"
-msgstr ""
+msgstr "Widget Khoảng Giá"
 
 #: wpsc-widgets/price_range_widget.php:22
 #: wpsc-widgets/price_range_widget.php:41
@@ -1489,7 +1414,7 @@ msgstr "Hiển thị tất cả"
 
 #: wpsc-widgets/specials_widget.php:19
 msgid "Product Specials Widget"
-msgstr ""
+msgstr "Widget Sản Phẩm Khuyến Mãi"
 
 #: wpsc-widgets/specials_widget.php:22 wpsc-widgets/specials_widget.php:41
 msgid "Product Specials"
@@ -1505,7 +1430,7 @@ msgstr "Từ"
 
 #: wpsc-widgets/shopping_cart_widget.php:19
 msgid "Shopping Cart Widget"
-msgstr ""
+msgstr "Widget Giỏ Hàng"
 
 #: wpsc-widgets/shopping_cart_widget.php:22
 #: wpsc-widgets/shopping_cart_widget.php:60
@@ -1527,12 +1452,12 @@ msgstr "Sử dụng giỏ hàng Sliding:"
 
 #: wpsc-widgets/product_tag_widget.php:19
 msgid "Product Tags Widget"
-msgstr ""
+msgstr "Widget Tags Sản phẩm"
 
 #: wpsc-widgets/product_tag_widget.php:22
 #: wpsc-widgets/product_tag_widget.php:41
 msgid "Product Tags"
-msgstr ""
+msgstr "Tags Sản Phẩm"
 
 #: wpsc-widgets/tagging_functions.php:94
 msgid "%d topic"
@@ -1546,7 +1471,7 @@ msgstr "Cập nhật URL của trang"
 
 #: wpsc-admin/display-debug.page.php:45
 msgid "Fix Product Group Permalinks"
-msgstr ""
+msgstr "Sửa Đường dẫn Nhóm Sản phẩm"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:35
 msgid "Select an Option"
@@ -1614,17 +1539,11 @@ msgstr "Check Out Form Fields đã cập nhật."
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:68
 msgid "Sales Upgrade Fix"
-msgstr ""
+msgstr "Sửa Nâng cấp bán hàng"
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:69
-msgid ""
-"Upgrading to WP e-Commerce 3.7 and later requires you to run this fix once."
-"The following Boxes corresponds to the form fields in your current checkout "
-"page.  All you have to do is select from the drop-down menu box what each of "
-"the following fields represent. Sorry for any inconvenience caused, but "
-"we're sure you'll agree that the new purchase logs are worth this minor "
-"hassle."
-msgstr ""
+msgid "Upgrading to WP e-Commerce 3.7 and later requires you to run this fix once.The following Boxes corresponds to the form fields in your current checkout page.  All you have to do is select from the drop-down menu box what each of the following fields represent. Sorry for any inconvenience caused, but we're sure you'll agree that the new purchase logs are worth this minor hassle."
+msgstr "Đang nâng cấp lên WP e-Commerce 3,7 và sau đó đòi hỏi bạn phải chạy để sửa 1 lần. Làm theo Boxes tương ứng với các trường mẫu trong trang thanh toán hiện tại của bạn. Tất cả những gì bạn phải làm là chọn từ hộp trình đơn thả xuống những gì tương ứng với các trường đại diện. Xin lỗi vì những bất tiện gây ra, nhưng chúng tôi chắc chắn bạn sẽ đồng ý rằng các bản ghi mới có rắc rối rất nhỏ."
 
 #: wpsc-admin/includes/purchlogs_upgrade.php:100
 #: wpsc-admin/display-sales-logs.php:298
@@ -1686,14 +1605,12 @@ msgstr "Xem dạng lưới"
 
 #: wpsc-admin/includes/save-data.functions.php:211
 #: wpsc-admin/includes/save-data.functions.php:404
-msgid ""
-"To over-ride the presentation settings for this group you can enter in your "
-"prefered settings here"
-msgstr ""
+msgid "To over-ride the presentation settings for this group you can enter in your prefered settings here"
+msgstr "Để thuần thục cài đặt trình bày cho nhóm này, bạn có thể nhập vào các thiết lập ưa thích của bạn ở đây"
 
 #: wpsc-admin/includes/save-data.functions.php:218
 msgid "Thumbnail&nbsp;Size"
-msgstr ""
+msgstr "Kích thước hình đại diện"
 
 #: wpsc-admin/includes/save-data.functions.php:221
 #: wpsc-admin/includes/save-data.functions.php:423
@@ -1718,22 +1635,21 @@ msgstr "Chiều cao"
 #: wpsc-admin/includes/save-data.functions.php:233
 #: wpsc-admin/includes/save-data.functions.php:455
 msgid "Target Market Restrictions"
-msgstr ""
+msgstr "Thị Trường Mục Tiêu Hạn Chế"
 
 #: wpsc-admin/includes/save-data.functions.php:242
 #: wpsc-admin/includes/save-data.functions.php:464
 #: wpsc-admin/includes/settings-pages/general.php:52
 msgid "Target Markets"
-msgstr ""
+msgstr "Thị Trường Mục Tiêu"
 
 #: wpsc-admin/includes/save-data.functions.php:247
 msgid ""
-"The Target Markets feature has been disabled because you have the Suhosin "
-"PHP extension installed on this server. If you need to use the Target "
-"Markets feature then disable the suhosin extension, if you can not do this, "
-"you will need to contact your hosting provider.\n"
+"The Target Markets feature has been disabled because you have the Suhosin PHP extension installed on this server. If you need to use the Target Markets feature then disable the suhosin extension, if you can not do this, you will need to contact your hosting provider.\n"
 "\t\t\t"
 msgstr ""
+"Chức năng Thị Trường Mục Tiêu đã bị vô hiệu hóa vì bạn có Suhosin PHP extension đã cài đặt trên máy chủ này. Nếu bạn cần sử dụng chức năng Thị Trường Mục Tiêu sau đó vô hiệu hóa Suhosin extension, nếu bạn không thể làm được, bạn sẽ cần liên hệ với nhà cung cấp hosting.\n"
+"\t\t\t"
 
 #: wpsc-admin/includes/save-data.functions.php:273
 #: wpsc-admin/includes/save-data.functions.php:496
@@ -1753,21 +1669,15 @@ msgstr "Không có"
 #: wpsc-admin/includes/save-data.functions.php:305
 #: wpsc-admin/includes/save-data.functions.php:530
 msgid "Products in this category use the billing address to calculate shipping"
-msgstr ""
-"Sản phẩm trong danh mục này sử dụng địa chỉ thanh toán để tính toán phí vận "
-"chuyển"
+msgstr "Sản phẩm trong danh mục này sử dụng địa chỉ thanh toán để tính toán phí vận chuyển"
 
 #: wpsc-admin/includes/save-data.functions.php:413
 msgid "Delete Image"
 msgstr "Xóa hình ảnh"
 
 #: wpsc-admin/includes/save-data.functions.php:414
-msgid ""
-"You can set an image for the category here.  If one exists, check the box to "
-"delete."
-msgstr ""
-"Bạn có thể thêm một hình ảnh cho danh mục này tại đây. Nếu hình đã có, check "
-"để xóa."
+msgid "You can set an image for the category here.  If one exists, check the box to delete."
+msgstr "Bạn có thể thêm một hình ảnh cho danh mục này tại đây. Nếu hình đã có, check để xóa."
 
 #: wpsc-admin/includes/save-data.functions.php:420
 msgid "Thumbnail Size"
@@ -1775,35 +1685,27 @@ msgstr "Kích thước hình đại diện"
 
 #: wpsc-admin/includes/save-data.functions.php:429
 msgid "Shortcodes and Template Tags"
-msgstr ""
+msgstr "Shortcodes và Tags mẫu"
 
 #: wpsc-admin/includes/save-data.functions.php:434
 msgid "Display Category Shortcode"
-msgstr ""
+msgstr "Hiện thị danh mục Shortcode"
 
 #: wpsc-admin/includes/save-data.functions.php:438
-msgid ""
-"Shortcodes are used to display a particular category or group within any "
-"WordPress page or post."
-msgstr ""
+msgid "Shortcodes are used to display a particular category or group within any WordPress page or post."
+msgstr "Shortcodes được sử dụng để hiển thị một thể loại hoặc nhóm cụ thể trong bất kỳ trang WordPress hoặc bài viết."
 
 #: wpsc-admin/includes/save-data.functions.php:443
 msgid "Display Category Template Tag"
-msgstr ""
+msgstr "Hiện thị danh mục Tag mẫu"
 
 #: wpsc-admin/includes/save-data.functions.php:447
-msgid ""
-"Template tags are used to display a particular category or group within your "
-"theme / template."
-msgstr ""
+msgid "Template tags are used to display a particular category or group within your theme / template."
+msgstr "Mẫu Tags được sử dụng để hiển thị một danh mục cụ thể hoặc nhóm trong theme / template của bạn."
 
 #: wpsc-admin/includes/save-data.functions.php:470
-msgid ""
-"The Target Markets feature has been disabled because you have the Suhosin "
-"PHP extension installed on this server. If you need to use the Target "
-"Markets feature, then disable the suhosin extension. If you can not do this, "
-"you will need to contact your hosting provider."
-msgstr ""
+msgid "The Target Markets feature has been disabled because you have the Suhosin PHP extension installed on this server. If you need to use the Target Markets feature, then disable the suhosin extension. If you can not do this, you will need to contact your hosting provider."
+msgstr "Chức năng Thị Trường Mục Tiêu đã bị vô hiệu hóa vì bạn có Suhosin PHP extension đã cài đặt trên máy chủ này. Nếu bạn cần sử dụng chức năng Thị Trường Mục Tiêu sau đó vô hiệu hóa Suhosin extension, nếu bạn không thể làm được, bạn sẽ cần liên hệ với nhà cung cấp hosting."
 
 #: wpsc-admin/includes/save-data.functions.php:475
 msgid "Select"
@@ -1830,67 +1732,52 @@ msgid "You did not specify any template files to be moved."
 msgstr "Bạn đã không chỉ định bất kỳ tập tin mẫu nào để được di chuyển."
 
 #: wpsc-admin/includes/settings-pages/presentation.php:66
-msgid ""
-"Error: some files could not be copied. Please make sure that theme folder is "
-"writable."
-msgstr ""
+msgid "Error: some files could not be copied. Please make sure that theme folder is writable."
+msgstr "Lỗi: vài tập tin không thể sao chép được. Bạn phải chắc chắn rằng thư mục theme phải cho phép ghi được."
 
 #: wpsc-admin/includes/settings-pages/presentation.php:68
 msgid "Thanks, the themes have been copied."
 msgstr "Cám ơn, giao diện đã được sao chép."
 
 #: wpsc-admin/includes/settings-pages/presentation.php:78
-msgid ""
-"Thanks, you have made a succesful backup of your theme.  It is located at "
-"the URL below.  Please note each backup you create will replace your "
-"previous backups."
-msgstr ""
+msgid "Thanks, you have made a succesful backup of your theme.  It is located at the URL below.  Please note each backup you create will replace your previous backups."
+msgstr "Cảm ơn, bạn đã thực hiện một bản sao lưu thành công chủ đề của bạn. Nó được đặt tại đường dẫn bên dưới. Xin lưu ý mỗi sao lưu bạn tạo ra sẽ thay thế sao lưu trước đó của bạn."
 
 #. Some themes have been moved to the themes folder
 #: wpsc-admin/includes/settings-pages/presentation.php:88
 msgid "Some Theme files have been moved to your WordPress Theme Folder."
-msgstr ""
+msgstr "Vài tập tin của Theme đã được di chuyển tới thư mục WordPress Theme của bạn."
 
 #: wpsc-admin/includes/settings-pages/presentation.php:90
 msgid "No Theme files have been moved to your WordPress Theme Folder."
-msgstr ""
+msgstr "Không có tập tin Theme nào được di chuyển tới thư mục Wordpress Theme của bạn."
 
 #: wpsc-admin/includes/settings-pages/presentation.php:96
 msgid ""
-"WP e-Commerce provides you the ability to move your theme files to a safe "
-"place for theming control.\n"
+"WP e-Commerce provides you the ability to move your theme files to a safe place for theming control.\n"
 "\t\t\t\t\t\n"
-"If you want to change the look of your site, select the files you want to "
-"edit from the list and click the move button. This will copy the template "
-"files to your active WordPress theme. "
-msgstr ""
+"If you want to change the look of your site, select the files you want to edit from the list and click the move button. This will copy the template files to your active WordPress theme. "
+msgstr "WP e-Commerce cung cấp cho bạn khả năng di chuyển các tập tin chủ đề của bạn đến một nơi an toàn để kiểm soát chủ đề \ n\ t \ t \ t \ t \ t \ nNếu bạn muốn thay đổi giao diện của trang web của bạn, chọn các tập tin bạn muốn chỉnh sửa từ danh sách và nhấn nút di chuyển. Điều này sẽ sao chép các tập tin mẫu tới WordPress Theme được kích hoạt."
 
 #: wpsc-admin/includes/settings-pages/presentation.php:114
-msgid ""
-"To change the look of certain aspects of your shop, you can edit the moved "
-"files that are found here:"
-msgstr ""
+msgid "To change the look of certain aspects of your shop, you can edit the moved files that are found here:"
+msgstr "Để thay đổi giao diện của một số khía cạnh của Shop, bạn có thể chỉnh sửa các file bị di chuyển được tìm thấy ở đây:"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:124
-msgid ""
-"You can create a copy of your WordPress Theme by clicking the backup button "
-"bellow. Once copied you can find them here:"
-msgstr ""
+msgid "You can create a copy of your WordPress Theme by clicking the backup button bellow. Once copied you can find them here:"
+msgstr "Bạn có thể tạo một bản sao của Theme WordPress của bạn bằng cách nhấn vào nút sao lưu dưới đây. Lần sao chép trước bạn có thể thấy ở đây:"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:128
 msgid "<a href=\"%s\" class=\"button\">Backup Your WordPress Theme</a>"
-msgstr ""
+msgstr "<a href=\"%s\" class=\"button\">Sao lưu WordPress Theme</a>"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:133
-msgid ""
-"If you have moved your files in some other way i.e FTP, you may need to "
-"click the Flush Theme Cache. This will refresh the locations WordPress looks "
-"for your templates."
-msgstr ""
+msgid "If you have moved your files in some other way i.e FTP, you may need to click the Flush Theme Cache. This will refresh the locations WordPress looks for your templates."
+msgstr "Nếu bạn đã di chuyển các tập tin của bạn trong một số cách khác như là FTP, bạn có thể cần phải bấm Theme Flush Cache. Điều này sẽ làm mới địa chỉ giao diện WordPress của bạn."
 
 #: wpsc-admin/includes/settings-pages/presentation.php:134
 msgid "<a href=\"%s\" class=\"button\">Flush Theme Cache</a>"
-msgstr ""
+msgstr "<a href=\"%s\" class=\"button\">Flush Theme Cache</a>"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:163
 msgid "Show All Products"
@@ -1909,10 +1796,8 @@ msgid "Button Type"
 msgstr "Loại nút"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:243
-msgid ""
-"Buy Now Button only works for Paypal Standard, please activate Paypal "
-"Standard to enable this option."
-msgstr ""
+msgid "Buy Now Button only works for Paypal Standard, please activate Paypal Standard to enable this option."
+msgstr "Nút Mua Ngay chỉ làm việc được trên Paypal Standard, vui lòng kích hoạt Paypal Standard để sử dụng tùy chọn."
 
 #: wpsc-admin/includes/settings-pages/presentation.php:252
 msgid "Hide \"Add to cart\" button"
@@ -1928,11 +1813,11 @@ msgstr "Hiển thị đánh giá sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:309
 msgid "Show Stock Availability"
-msgstr ""
+msgstr "Hiển thị tiện ích Stock"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:318
 msgid "Display Fancy Purchase Notifications"
-msgstr ""
+msgstr "Hiển thị Thông báo  Fancy Purchase "
 
 #: wpsc-admin/includes/settings-pages/presentation.php:342
 msgid "Display per item shipping"
@@ -1956,7 +1841,7 @@ msgstr "Sản phẩm hiển thị"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:497
 msgid "Purchase unavailable options"
-msgstr ""
+msgstr "Tùy chọn Mua không có sẵn"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:507
 msgid "Products Per Row"
@@ -1968,7 +1853,7 @@ msgstr "Chỉ hiển thị hình ảnh"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:515
 msgid "Display Variations"
-msgstr ""
+msgstr "Hiển thị các biến thể"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:519
 msgid "Display Description"
@@ -2048,7 +1933,7 @@ msgstr "Cài đặt Giỏ hàng"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:768
 msgid "Cart Location"
-msgstr ""
+msgstr "Vùng của Giỏ hàng"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:794
 msgid "Page"
@@ -2057,7 +1942,7 @@ msgstr "Trang"
 #: wpsc-admin/includes/settings-pages/presentation.php:798
 #: wpsc-admin/includes/settings-pages/presentation.php:802
 msgid "Widget"
-msgstr ""
+msgstr "Widget"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:802
 #: wpsc-admin/includes/settings-pages/presentation.php:812
@@ -2068,7 +1953,7 @@ msgstr "Bạn phải bật widget plugin để sử dụng chức năng này"
 #: wpsc-admin/includes/settings-pages/presentation.php:813
 #: wpsc-admin/display-upgrades.page.php:22
 msgid "DropShop"
-msgstr ""
+msgstr "DropShop"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:812
 #: wpsc-admin/includes/settings-pages/presentation.php:813
@@ -2101,7 +1986,7 @@ msgstr ""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:850
 msgid "Display \"+ Postage & Tax\""
-msgstr ""
+msgstr "Hiển thị \"+ Thuế & Bưu chính\""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:873
 msgid "Product Category Settings"
@@ -2109,73 +1994,65 @@ msgstr "Cài đặt Danh mục sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:877
 msgid "Show Product Category Description"
-msgstr ""
+msgstr "Hiển thị mô tả Danh Mục Sản Phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:901
 msgid "Show Product Category Thumbnails"
-msgstr ""
+msgstr "Hiển thị hình đại diện cho Danh Mục Sản Phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:927
 msgid "Show Product Count per Product Category"
-msgstr ""
+msgstr "Hiển thị Số Sản Phẩm trên Danh Mục Sản Phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:976
 msgid "Thumbnail Settings"
-msgstr ""
+msgstr "Cài đặt hình đại diện"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:977
-msgid ""
-"Note: Anytime you update any of the thumbnail settings, WPeC will "
-"automatically resize all of your thumbnails for you.  Depending on how many "
-"images you have, this could take awhile."
+msgid "Note: Anytime you update any of the thumbnail settings, WPeC will automatically resize all of your thumbnails for you.  Depending on how many images you have, this could take awhile."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:981
 #: wpsc-admin/includes/display-items-functions.php:1010
 msgid "Default Product Thumbnail Size"
-msgstr ""
+msgstr "Kích thước mặc định của Hình đại diện Sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:990
 msgid "Default Product Group Thumbnail Size"
-msgstr ""
+msgstr "Kích thước mặc định của Hình đại diện Nhóm Sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:999
 #: wpsc-admin/includes/display-items-functions.php:1010
 msgid "Single Product Image Size"
-msgstr ""
+msgstr "Kích thước của Hình Sản Phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:1022
 msgid "Crop Thumbnails"
-msgstr ""
+msgstr "Cắt Hình đại diện"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:1027
-msgid ""
-"Choosing \"Yes\" means that thumbnails are cropped to exact dimensions "
-"(normally thumbnails are proportional)"
+msgid "Choosing \"Yes\" means that thumbnails are cropped to exact dimensions (normally thumbnails are proportional)"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:1056
 msgid "Use Lightbox Effect for product images"
-msgstr ""
+msgstr "Sử dụng Lightbox Effect cho hình sản phẩm"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:1074
-msgid ""
-"Using lightbox means that when clicking on a product image, a larger version "
-"will be displayed in a \"lightbox\" style window. If you are using a plugin "
-"such as Shutter Reloaded, you may want to disable lightbox."
+msgid "Using lightbox means that when clicking on a product image, a larger version will be displayed in a \"lightbox\" style window. If you are using a plugin such as Shutter Reloaded, you may want to disable lightbox."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/presentation.php:1078
 msgid "Lightbox script to use"
-msgstr ""
+msgstr "Sử dụng Lightbox script"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:1089
 msgid "Colorbox"
-msgstr ""
+msgstr "Colorbox"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:1090
 msgid "Thickbox"
-msgstr ""
+msgstr "Thickbox"
 
 #: wpsc-admin/includes/settings-pages/presentation.php:1099
 msgid "Show Thumbnail Gallery"
@@ -2258,10 +2135,7 @@ msgid "Check MIME types on file uploads"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/admin.php:68
-msgid ""
-"Warning: Disabling this exposes your site to greater possibility of "
-"malicious files being uploaded, we reccomend installing the Fileinfo "
-"extention for PHP rather than disabling this."
+msgid "Warning: Disabling this exposes your site to greater possibility of malicious files being uploaded, we reccomend installing the Fileinfo extention for PHP rather than disabling this."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/admin.php:76
@@ -2289,15 +2163,11 @@ msgid "Tags can be used"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/admin.php:118
-msgid ""
-"Note: The purchase receipt is the message e-mailed to users after purchasing "
-"products from your shop."
+msgid "Note: The purchase receipt is the message e-mailed to users after purchasing products from your shop."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/admin.php:129
-msgid ""
-"Note: The Admin Report is the email sent to the e-mail address set above as "
-"soon as someone successfully buys a product."
+msgid "Note: The Admin Report is the email sent to the e-mail address set above as soon as someone successfully buys a product."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/admin.php:134
@@ -2309,12 +2179,7 @@ msgid "Track and Trace settings"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/admin.php:144
-msgid ""
-"Note: The Tracking Subject, is the subject for The Tracking Message email. "
-"The Tracking Message is the message e-mailed to users when you click 'Email "
-"buyer' on the sales log. This option is only available for purchases with "
-"the status of 'Job Dispatched'. Tags you can use in the email message "
-"section are %trackid% and %shop_name%"
+msgid "Note: The Tracking Subject, is the subject for The Tracking Message email. The Tracking Message is the message e-mailed to users when you click 'Email buyer' on the sales log. This option is only available for purchases with the status of 'Job Dispatched'. Tags you can use in the email message section are %trackid% and %shop_name%"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/admin.php:149
@@ -2326,17 +2191,11 @@ msgid "Tracking Email Message"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/import.php:12
-msgid ""
-"<p>You can import your products from a comma delimited text file.</p><p>An "
-"example of a csv import file would look like this: </p><p>Description, "
-"Additional Description, Product Name, Price, SKU, weight, weight unit, stock "
-"quantity, is limited quantity</p>"
+msgid "<p>You can import your products from a comma delimited text file.</p><p>An example of a csv import file would look like this: </p><p>Description, Additional Description, Product Name, Price, SKU, weight, weight unit, stock quantity, is limited quantity</p>"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/import.php:39
-msgid ""
-"For each column, select the field it corresponds to in 'Belongs to'. You can "
-"upload as many products as you like."
+msgid "For each column, select the field it corresponds to in 'Belongs to'. You can upload as many products as you like."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/import.php:44
@@ -2344,9 +2203,7 @@ msgid "Product Status"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/import.php:48
-msgid ""
-"Select if you would like to import your products in as Drafts or Publish "
-"them right away."
+msgid "Select if you would like to import your products in as Drafts or Publish them right away."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/import.php:52
@@ -2386,11 +2243,11 @@ msgstr ""
 #: wpsc-admin/includes/products.php:80 wpsc-admin/display-items.page.php:29
 #: wpsc-admin/display-items.page.php:58
 msgid "Weight"
-msgstr ""
+msgstr "Cân nặng"
 
 #: wpsc-admin/includes/settings-pages/import.php:84
 msgid "Weight Unit"
-msgstr ""
+msgstr "Đơn vị cân nặng"
 
 #: wpsc-admin/includes/settings-pages/import.php:85
 msgid "Stock Quantity"
@@ -2401,9 +2258,7 @@ msgid "Stock Quantity Limit"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/import.php:93
-msgid ""
-"Please select a category you would like to place all products from this CSV "
-"into"
+msgid "Please select a category you would like to place all products from this CSV into"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/import.php:105
@@ -2443,9 +2298,7 @@ msgid "Users must register before checking out"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/checkout.php:55
-msgid ""
-"If yes then you must also turn on the wordpress option \"Any one can register"
-"\""
+msgid "If yes then you must also turn on the wordpress option \"Any one can register\""
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/checkout.php:73
@@ -2457,9 +2310,7 @@ msgid "Force users to use SSL"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/checkout.php:103
-msgid ""
-"This can cause warnings for your users if you do not have a properly "
-"configured SSL certificate"
+msgid "This can cause warnings for your users if you do not have a properly configured SSL certificate"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/checkout.php:111
@@ -2467,10 +2318,7 @@ msgid "Form Fields"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/checkout.php:112
-msgid ""
-"Here you can customise the forms to be displayed in your checkout page. The "
-"checkout page is where you collect important user information that will show "
-"up in your purchase logs i.e. the buyers address, and name..."
+msgid "Here you can customise the forms to be displayed in your checkout page. The checkout page is where you collect important user information that will show up in your purchase logs i.e. the buyers address, and name..."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/checkout.php:115
@@ -2538,9 +2386,7 @@ msgid "Display Cross Sales"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/marketing.php:61
-msgid ""
-"Adds the 'Users who bought this also bought' item to the single products "
-"page."
+msgid "Adds the 'Users who bought this also bought' item to the single products page."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/marketing.php:64
@@ -2576,11 +2422,7 @@ msgid "RSS Feed Address"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/marketing.php:99
-msgid ""
-"To import your products into <a href=\"http://www.google.com/merchants/\" "
-"target=\"_blank\">Google Merchant Centre</a> so that they appear within "
-"Google Product Search results, sign up for a Google Merchant Centre account "
-"and add a scheduled data feed with the following URL:"
+msgid "To import your products into <a href=\"http://www.google.com/merchants/\" target=\"_blank\">Google Merchant Centre</a> so that they appear within Google Product Search results, sign up for a Google Merchant Centre account and add a scheduled data feed with the following URL:"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/general.php:8
@@ -2598,17 +2440,11 @@ msgid "Select your primary business location."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/general.php:58
-msgid ""
-"The Target Markets feature has been disabled because you have the Suhosin "
-"PHP extension installed on this server. If you need to use the Target "
-"Markets feature then disable the suhosin extension, if you can not do this, "
-"you will need to contact your hosting provider."
+msgid "The Target Markets feature has been disabled because you have the Suhosin PHP extension installed on this server. If you need to use the Target Markets feature then disable the suhosin extension, if you can not do this, you will need to contact your hosting provider."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/general.php:61
-msgid ""
-"Select: <a href=\"%1$s\"  class=\"wpsc_select_all\" title=\"All\">All</a> <a "
-"href=\"%1$s\" class=\"wpsc_select_none\" title=\"None\">None</a>"
+msgid "Select: <a href=\"%1$s\"  class=\"wpsc_select_all\" title=\"All\">All</a> <a href=\"%1$s\" class=\"wpsc_select_none\" title=\"None\">None</a>"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/general.php:75
@@ -2656,9 +2492,7 @@ msgid "Product prices are tax exclusive - add tax to the price during checkout"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/taxes.php:34
-msgid ""
-"Product prices are tax inclusive - during checkout the total price doesn't "
-"increase but tax is shown as a line item"
+msgid "Product prices are tax inclusive - during checkout the total price doesn't increase but tax is shown as a line item"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/taxes.php:37
@@ -2666,8 +2500,7 @@ msgid "Product Specific Tax"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/taxes.php:43
-msgid ""
-"Add per product tax to tax percentage if product has a specific tax rate"
+msgid "Add per product tax to tax percentage if product has a specific tax rate"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/taxes.php:51
@@ -2711,14 +2544,11 @@ msgid "Tax Bands"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/taxes.php:154
-msgid ""
-"Note: Tax Bands are special tax rules you can create and apply on a per-"
-"product basis. <br /> Please visit the product page to apply your Tax Band."
+msgid "Note: Tax Bands are special tax rules you can create and apply on a per-product basis. <br /> Please visit the product page to apply your Tax Band."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/taxes.php:158
-msgid ""
-"Note: Tax Bands do not take affect when product prices are tax exclusive."
+msgid "Note: Tax Bands do not take affect when product prices are tax exclusive."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/taxes.php:171
@@ -2730,9 +2560,7 @@ msgid "Use Shipping"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/shipping.php:78
-msgid ""
-"If you are only selling digital downloads, you should select no to disable "
-"the shipping on your site."
+msgid "If you are only selling digital downloads, you should select no to disable the shipping on your site."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/shipping.php:83
@@ -2748,9 +2576,7 @@ msgid "Base Zipcode/Postcode:"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/shipping.php:93
-msgid ""
-"If you are based in America then you need to set your own Zipcode for UPS "
-"and USPS to work. This should be the Zipcode for your Base of Operations."
+msgid "If you are based in America then you need to set your own Zipcode for UPS and USPS to work. This should be the Zipcode for your Base of Operations."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/shipping.php:115
@@ -2770,10 +2596,7 @@ msgid "Enable Free Shipping Discount"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/shipping.php:162
-msgid ""
-"Sales over or equal to: %1$s<input type=\"text\" size=\"6\" name="
-"\"wpsc_options[shipping_discount_value]\" value=\"%2$s\" id="
-"\"shipping_discount_value\" /> will receive free shipping."
+msgid "Sales over or equal to: %1$s<input type=\"text\" size=\"6\" name=\"wpsc_options[shipping_discount_value]\" value=\"%2$s\" id=\"shipping_discount_value\" /> will receive free shipping."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/shipping.php:186
@@ -2781,13 +2604,7 @@ msgid "Shipping Modules"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/shipping.php:190
-msgid ""
-"To enable shipping in WP e-Commerce you must select which shipping methods "
-"you want to enable on your site.<br /> If you want to use fixed-price "
-"shipping options like \"Pickup - $0, Overnight - $10, Same day - $20, etc.\" "
-"you can download a WordPress plugin from plugins directory for <a href="
-"\"http://wordpress.org/extend/plugins/wp-e-commerce-fixed-rate-shipping/"
-"\">Simple shipping</a>. It will appear in the list as \"Fixed rate\"."
+msgid "To enable shipping in WP e-Commerce you must select which shipping methods you want to enable on your site.<br /> If you want to use fixed-price shipping options like \"Pickup - $0, Overnight - $10, Same day - $20, etc.\" you can download a WordPress plugin from plugins directory for <a href=\"http://wordpress.org/extend/plugins/wp-e-commerce-fixed-rate-shipping/\">Simple shipping</a>. It will appear in the list as \"Fixed rate\"."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/shipping.php:194
@@ -2799,9 +2616,7 @@ msgid "External Shipping Calculators"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/shipping.php:219
-msgid ""
-"The following shipping modules all need cURL which is not installed on this "
-"server, you may need to contact your web hosting provider to get it set up. "
+msgid "The following shipping modules all need cURL which is not installed on this server, you may need to contact your web hosting provider to get it set up. "
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/gateway.php:40
@@ -2809,9 +2624,7 @@ msgid "Please Select A Payment Gateway"
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/gateway.php:70
-msgid ""
-"Activate the payment gateways that you want to make available to your "
-"customers by selecting them below."
+msgid "Activate the payment gateways that you want to make available to your customers by selecting them below."
 msgstr ""
 
 #: wpsc-admin/includes/settings-pages/gateway.php:110
@@ -2823,9 +2636,7 @@ msgid "GST/Tax Rate"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:132
-msgid ""
-"This Product has variations, to edit the price please use the <a href="
-"\"#variation_control\">Variation Controls</a> below."
+msgid "This Product has variations, to edit the price please use the <a href=\"#variation_control\">Variation Controls</a> below."
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:133
@@ -2891,9 +2702,7 @@ msgid "I have limited stock for this Product"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:269
-msgid ""
-"This Product has variations, to edit the quantity please use the Variation "
-"Controls below."
+msgid "This Product has variations, to edit the quantity please use the Variation Controls below."
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:270
@@ -2908,8 +2717,7 @@ msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:280
 msgid "%s of them is reserved for pending or recently completed orders."
-msgid_plural ""
-"%s of them are reserved for pending or recently completed orders."
+msgid_plural "%s of them are reserved for pending or recently completed orders."
 msgstr[0] ""
 msgstr[1] ""
 
@@ -2918,9 +2726,7 @@ msgid "Notify site owner and unpublish this Product if stock runs out"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:289
-msgid ""
-"If stock runs out, this Product will not be available on the shop unless you "
-"untick this box or add more stock."
+msgid "If stock runs out, this Product will not be available on the shop unless you untick this box or add more stock."
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:293
@@ -2928,9 +2734,7 @@ msgid "Stock Qty"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:295
-msgid ""
-"If this Product runs out of stock set status to Unpublished & email site "
-"owner"
+msgid "If this Product runs out of stock set status to Unpublished & email site owner"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:326
@@ -2955,9 +2759,7 @@ msgid "Update Variations &rarr;"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:479
-msgid ""
-"Check or uncheck variation boxes and then click Update Variations to add or "
-"remove variations."
+msgid "Check or uncheck variation boxes and then click Update Variations to add or remove variations."
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:503
@@ -3044,9 +2846,7 @@ msgid "Personalisation Options"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:729
-msgid ""
-"Users can personalize this Product by leaving a message on single product "
-"page"
+msgid "Users can personalize this Product by leaving a message on single product page"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:737
@@ -3054,9 +2854,7 @@ msgid "Users can upload images on single product page to purchase logs."
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:748
-msgid ""
-"Prohibited <a href=\"http://checkout.google.com/support/sell/bin/answer.py?"
-"answer=75724\">by Google?</a>"
+msgid "Prohibited <a href=\"http://checkout.google.com/support/sell/bin/answer.py?answer=75724\">by Google?</a>"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:761
@@ -3072,12 +2870,7 @@ msgid "Allow users to comment on this Product."
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:791
-msgid ""
-"If this product is for sale on another website enter the link here. For "
-"instance if your product is an MP3 file for sale on iTunes you could put the "
-"link here. This option overrides the buy now and add to cart links and takes "
-"you to the site linked here. You can also customise the Buy Now text and "
-"choose to open the link in a new window."
+msgid "If this product is for sale on another website enter the link here. For instance if your product is an MP3 file for sale on iTunes you could put the link here. This option overrides the buy now and add to cart links and takes you to the site linked here. You can also customise the Buy Now text and choose to open the link in a new window."
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:795
@@ -3148,17 +2941,7 @@ msgid "Use as Product Thumbnail"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:972
-msgid ""
-"The name is how it appears on your site. <br><div class=\"error"
-"\"><strong>Please read this carefully before starting to work with "
-"variations:</strong><br />Variations in WP e-Commerce are divided into sets. "
-"For example set <strong>Color</strong> could have variations <strong>Red, "
-"Green,</strong> and <strong>Blue</strong>. To create a set simply enter "
-"<strong>Name</strong> and push Enter key on your keyboard or click "
-"<strong>Add New Variation/Set</strong> button in the bottom of this page. "
-"Now you can select the variation set that you've just created from "
-"<strong>Variation set</strong> drop-down menu and add some variations to it."
-"</div>"
+msgid "The name is how it appears on your site. <br><div class=\"error\"><strong>Please read this carefully before starting to work with variations:</strong><br />Variations in WP e-Commerce are divided into sets. For example set <strong>Color</strong> could have variations <strong>Red, Green,</strong> and <strong>Blue</strong>. To create a set simply enter <strong>Name</strong> and push Enter key on your keyboard or click <strong>Add New Variation/Set</strong> button in the bottom of this page. Now you can select the variation set that you've just created from <strong>Variation set</strong> drop-down menu and add some variations to it.</div>"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:995
@@ -3183,9 +2966,7 @@ msgid "Single Product Page Thumbnail:"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:1044
-msgid ""
-"This is the Thumbnail size that will be displayed on the Single Product "
-"page. You can change the default sizes under your store settings"
+msgid "This is the Thumbnail size that will be displayed on the Single Product page. You can change the default sizes under your store settings"
 msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:1057
@@ -3215,7 +2996,7 @@ msgstr ""
 
 #: wpsc-admin/includes/display-items-functions.php:1246
 msgid "Weight:"
-msgstr ""
+msgstr "Cân nặng:"
 
 #: wpsc-admin/includes/display-items-functions.php:1254
 msgid "Stock:"
@@ -3448,11 +3229,7 @@ msgid "Free Shipping"
 msgstr ""
 
 #: wpsc-admin/display-coupons.php:398
-msgid ""
-"<strong>Note:</strong> Due to a current PayPal limitation, when a purchase "
-"is made using a coupon we cannot send a detailed list of items through for "
-"processing. Instead we send the total amount of the purchase so the customer "
-"will see your shop name and the total within PayPal."
+msgid "<strong>Note:</strong> Due to a current PayPal limitation, when a purchase is made using a coupon we cannot send a detailed list of items through for processing. Instead we send the total amount of the purchase so the customer will see your shop name and the total within PayPal."
 msgstr ""
 
 #: wpsc-admin/admin.php:155
@@ -3488,41 +3265,27 @@ msgid "For More Information"
 msgstr ""
 
 #: wpsc-admin/admin.php:178
-msgid ""
-"<a target='_blank' href='http://getshopped.org/resources/docs/building-your-"
-"store/sales/'>About the Sales Page</a>"
+msgid "<a target='_blank' href='http://getshopped.org/resources/docs/building-your-store/sales/'>About the Sales Page</a>"
 msgstr ""
 
 #: wpsc-admin/admin.php:179
-msgid ""
-"<a target='_blank' href='http://getshopped.org/resources/docs/building-your-"
-"store/products'>About the Products Page</a>"
+msgid "<a target='_blank' href='http://getshopped.org/resources/docs/building-your-store/products'>About the Products Page</a>"
 msgstr ""
 
 #: wpsc-admin/admin.php:180
-msgid ""
-"<a target='_blank' href='http://getshopped.org/resources/docs/building-your-"
-"store/categories/'>About the Categories Page</a>"
+msgid "<a target='_blank' href='http://getshopped.org/resources/docs/building-your-store/categories/'>About the Categories Page</a>"
 msgstr ""
 
 #: wpsc-admin/admin.php:181
-msgid ""
-"<a target='_blank' href='http://getshopped.org/resources/docs/building-your-"
-"store/variations/'>About the Variations Page</a>"
+msgid "<a target='_blank' href='http://getshopped.org/resources/docs/building-your-store/variations/'>About the Variations Page</a>"
 msgstr ""
 
 #: wpsc-admin/admin.php:182
-msgid ""
-"<a target='_blank' href='http://getshopped.org/resources/docs/store-settings/"
-"general/'>General Settings</a><br /> <a target='_blank' href='http://"
-"getshopped.org/resources/docs/store-settings/checkout/'>Checkout Options</a> "
-"<br />"
+msgid "<a target='_blank' href='http://getshopped.org/resources/docs/store-settings/general/'>General Settings</a><br /> <a target='_blank' href='http://getshopped.org/resources/docs/store-settings/checkout/'>Checkout Options</a> <br />"
 msgstr ""
 
 #: wpsc-admin/admin.php:183
-msgid ""
-"<a target='_blank' href='http://getshopped.org/resources/docs/building-your-"
-"store/marketing'>Marketing Options</a><br />"
+msgid "<a target='_blank' href='http://getshopped.org/resources/docs/building-your-store/marketing'>Marketing Options</a><br />"
 msgstr ""
 
 #: wpsc-admin/admin.php:213
@@ -3531,17 +3294,13 @@ msgstr ""
 
 #: wpsc-admin/admin.php:214
 msgid ""
-"Track & Trace means you may track the progress of your parcel with our "
-"online parcel tracker, just login to our website and enter the following "
-"Tracking ID to view the status of your order.\n"
+"Track & Trace means you may track the progress of your parcel with our online parcel tracker, just login to our website and enter the following Tracking ID to view the status of your order.\n"
 "\n"
 "Tracking ID: %trackid%\n"
 msgstr ""
 
 #: wpsc-admin/admin.php:269 wpsc-admin/admin.php:355
-msgid ""
-"Unsaved changes have been detected. Click OK to lose these changes and "
-"continue."
+msgid "Unsaved changes have been detected. Click OK to lose these changes and continue."
 msgstr ""
 
 #: wpsc-admin/admin.php:295
@@ -3691,10 +3450,7 @@ msgid "Error updating product"
 msgstr ""
 
 #: wpsc-admin/admin.php:903
-msgid ""
-"Due to a problem in WordPress Permalinks and Custom Post Types, WP e-"
-"Commerce encourages you to refresh your permalinks a second time. (for a "
-"more geeky explanation visit <a href=\"%s\">trac</a>)"
+msgid "Due to a problem in WordPress Permalinks and Custom Post Types, WP e-Commerce encourages you to refresh your permalinks a second time. (for a more geeky explanation visit <a href=\"%s\">trac</a>)"
 msgstr ""
 
 #: wpsc-admin/display-items.page.php:34
@@ -3743,9 +3499,7 @@ msgid "WP e-Commerce is almost ready."
 msgstr ""
 
 #: wpsc-admin/display-update.page.php:40
-msgid ""
-"You must <a href=\"%1$s\">update your database</a> to import all of your "
-"products."
+msgid "You must <a href=\"%1$s\">update your database</a> to import all of your products."
 msgstr ""
 
 #: wpsc-admin/display-update.page.php:55
@@ -3781,22 +3535,15 @@ msgid "WP e-Commerce updated successfully!"
 msgstr ""
 
 #: wpsc-admin/display-update.page.php:75
-msgid ""
-"Note: It looks like you have custom permalinks, you will need to refresh "
-"your permalinks <a href=\"%s\">here</a>"
+msgid "Note: It looks like you have custom permalinks, you will need to refresh your permalinks <a href=\"%s\">here</a>"
 msgstr ""
 
 #: wpsc-admin/display-update.page.php:83
-msgid ""
-"Your WP e-Commerce database needs to be updated for WP e-Commerce 3.8.  To "
-"perform this update, press the button below.  It is highly recommended that "
-"you back up your database before performing this update."
+msgid "Your WP e-Commerce database needs to be updated for WP e-Commerce 3.8.  To perform this update, press the button below.  It is highly recommended that you back up your database before performing this update."
 msgstr ""
 
 #: wpsc-admin/display-update.page.php:86
-msgid ""
-"Note: If the server times out or runs out of memory, just reload this page, "
-"the server will pick up where it left off."
+msgid "Note: If the server times out or runs out of memory, just reload this page, the server will pick up where it left off."
 msgstr ""
 
 #: wpsc-admin/display-upgrades.page.php:9
@@ -3804,9 +3551,7 @@ msgid "WP e-Commerce Upgrades"
 msgstr ""
 
 #: wpsc-admin/display-upgrades.page.php:10
-msgid ""
-"Add more functionality to your e-Commerce site. Prices may be subject to "
-"change."
+msgid "Add more functionality to your e-Commerce site. Prices may be subject to change."
 msgstr ""
 
 #: wpsc-admin/display-upgrades.page.php:15
@@ -3847,9 +3592,7 @@ msgid "API Key Reset"
 msgstr ""
 
 #: wpsc-admin/display-upgrades.page.php:80
-msgid ""
-"Enter your API name and key to release it from an old site that you no "
-"longer use."
+msgid "Enter your API name and key to release it from an old site that you no longer use."
 msgstr ""
 
 #: wpsc-admin/display-upgrades.page.php:88
@@ -4001,10 +3744,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: wpsc-admin/display-sales-logs.php:86
-msgid ""
-"When upgrading the WP e-Commerce Plugin from 3.6.* to 3.7 it is required "
-"that you associate your checkout form fields with the new Purchase Logs "
-"system. To do so please <a href=\"%s\">Click Here</a>"
+msgid "When upgrading the WP e-Commerce Plugin from 3.6.* to 3.7 it is required that you associate your checkout form fields with the new Purchase Logs system. To do so please <a href=\"%s\">Click Here</a>"
 msgstr ""
 
 #: wpsc-admin/display-sales-logs.php:118
@@ -4293,9 +4033,7 @@ msgid "Settings successfully updated."
 msgstr ""
 
 #: wpsc-admin/ajax-and-init.php:158
-msgid ""
-"Sorry, for some reason, we couldn't duplicate this product because it could "
-"not be found in the database, check there for this ID: "
+msgid "Sorry, for some reason, we couldn't duplicate this product because it could not be found in the database, check there for this ID: "
 msgstr ""
 
 #: wpsc-admin/ajax-and-init.php:547
@@ -4303,10 +4041,7 @@ msgid "The administrator has unlocked your file"
 msgstr ""
 
 #: wpsc-admin/ajax-and-init.php:547
-msgid ""
-"Dear CustomerWe are pleased to advise you that your order has been updated "
-"and your downloads are now active.Please download your purchase using the "
-"links provided below.[download_links]Thank you for your custom."
+msgid "Dear CustomerWe are pleased to advise you that your order has been updated and your downloads are now active.Please download your purchase using the links provided below.[download_links]Thank you for your custom."
 msgstr ""
 
 #: wpsc-admin/ajax-and-init.php:1091
@@ -4318,10 +4053,7 @@ msgid "Variation Price"
 msgstr ""
 
 #: wpsc-admin/ajax-and-init.php:1630 wpsc-admin/ajax-and-init.php:1647
-msgid ""
-"You can list a default price here for this variation.  You can list a "
-"regular price (18.99), differential price (+1.99 / -2) or even a percentage-"
-"based price (+50% / -25%)."
+msgid "You can list a default price here for this variation.  You can list a regular price (18.99), differential price (+1.99 / -2) or even a percentage-based price (+50% / -25%)."
 msgstr ""
 
 #: wpsc-admin/ajax-and-init.php:1667
@@ -4329,13 +4061,7 @@ msgid "Apply to current variations?"
 msgstr ""
 
 #: wpsc-admin/ajax-and-init.php:1669
-msgid ""
-"By checking this box, the price rule you implement above will be applied to "
-"all variations that currently exist.  If you leave it unchecked, it will "
-"only apply to products that use this variation created or edited from now "
-"on.  Take note, this will apply this rule to <strong>every</strong> product "
-"using this variation.  If you need to override it for any reason on a "
-"specific product, simply go to that product and change the price."
+msgid "By checking this box, the price rule you implement above will be applied to all variations that currently exist.  If you leave it unchecked, it will only apply to products that use this variation created or edited from now on.  Take note, this will apply this rule to <strong>every</strong> product using this variation.  If you need to override it for any reason on a specific product, simply go to that product and change the price."
 msgstr ""
 
 #: wpsc-includes/ajax.functions.php:79
@@ -4365,20 +4091,15 @@ msgid "Variation not in stock"
 msgstr ""
 
 #: wpsc-includes/ajax.functions.php:522
-msgid ""
-"Please agree to the terms and conditions, otherwise we cannot process your "
-"order."
+msgid "Please agree to the terms and conditions, otherwise we cannot process your order."
 msgstr ""
 
 #: wpsc-includes/ajax.functions.php:536
-msgid ""
-"%s cannot be shipped to %s. To continue with your transaction please remove "
-"this product from the list below."
+msgid "%s cannot be shipped to %s. To continue with your transaction please remove this product from the list below."
 msgstr ""
 
 #: wpsc-includes/ajax.functions.php:555
-msgid ""
-"You must select a shipping method, otherwise we cannot process your order."
+msgid "You must select a shipping method, otherwise we cannot process your order."
 msgstr ""
 
 #: wpsc-includes/ajax.functions.php:559
@@ -4391,9 +4112,7 @@ msgstr ""
 
 #: wpsc-includes/ajax.functions.php:976 wpsc-includes/ajax.functions.php:984
 #: wpsc-includes/ajax.functions.php:1052
-msgid ""
-"This download is no longer valid, Please contact the site administrator for "
-"more information."
+msgid "This download is no longer valid, Please contact the site administrator for more information."
 msgstr ""
 
 #: wpsc-includes/ajax.functions.php:1049
@@ -4401,26 +4120,15 @@ msgid "Sorry something has gone wrong with your download!"
 msgstr ""
 
 #: wpsc-includes/theme.functions.php:176
-msgid ""
-"<strong>WP e-Commerce is ready</strong>. If you plan on editing the look of "
-"your site, you should <a href=\"%1s\">update your active theme</a> to "
-"include the additional WP e-Commerce files. <a href=\"%2s\">Click here</a> "
-"to ignore and remove this box."
+msgid "<strong>WP e-Commerce is ready</strong>. If you plan on editing the look of your site, you should <a href=\"%1s\">update your active theme</a> to include the additional WP e-Commerce files. <a href=\"%2s\">Click here</a> to ignore and remove this box."
 msgstr ""
 
 #: wpsc-includes/theme.functions.php:194
-msgid ""
-"<strong>Your WP e-Commerce data needs to be updated</strong>. You've "
-"upgraded from a previous version of the WP e-Commerce plugin, and your store "
-"needs updating.<br>You should <a href=\"%1s\">update your database</a> for "
-"your store to continue working."
+msgid "<strong>Your WP e-Commerce data needs to be updated</strong>. You've upgraded from a previous version of the WP e-Commerce plugin, and your store needs updating.<br>You should <a href=\"%1s\">update your database</a> for your store to continue working."
 msgstr ""
 
 #: wpsc-includes/theme.functions.php:231
-msgid ""
-"<strong>Store Settings</strong>: You have set 'users must register before "
-"checkout', for this to work you need to check 'Anyone can register' in your "
-"WordPress <a href=\"%1s\">General Settings</a>."
+msgid "<strong>Store Settings</strong>: You have set 'users must register before checkout', for this to work you need to check 'Anyone can register' in your WordPress <a href=\"%1s\">General Settings</a>."
 msgstr ""
 
 #: wpsc-includes/upgrades.php:122
@@ -4440,15 +4148,11 @@ msgid "<strong>ERROR</strong>: Please enter a username."
 msgstr ""
 
 #: wpsc-includes/misc.functions.php:69
-msgid ""
-"<strong>ERROR</strong>: This username is invalid.  Please enter a valid "
-"username."
+msgid "<strong>ERROR</strong>: This username is invalid.  Please enter a valid username."
 msgstr ""
 
 #: wpsc-includes/misc.functions.php:72
-msgid ""
-"<strong>ERROR</strong>: This username is already registered, please choose "
-"another one."
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
 msgstr ""
 
 #: wpsc-includes/misc.functions.php:77
@@ -4460,21 +4164,15 @@ msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
 msgstr ""
 
 #: wpsc-includes/misc.functions.php:82
-msgid ""
-"<strong>ERROR</strong>: This email is already registered, please choose "
-"another one."
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
 msgstr ""
 
 #: wpsc-includes/misc.functions.php:90
-msgid ""
-"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
-"href=\"mailto:%s\">webmaster</a> !"
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
 msgstr ""
 
 #: wpsc-includes/misc.functions.php:753
-msgid ""
-"Please refrain from uploading images larger than <strong>%d x %d</strong> "
-"pixels"
+msgid "Please refrain from uploading images larger than <strong>%d x %d</strong> pixels"
 msgstr ""
 
 #: wpsc-includes/form-display.functions.php:72
@@ -4486,9 +4184,7 @@ msgid "File(s) attached: "
 msgstr ""
 
 #: wpsc-includes/form-display.functions.php:190
-msgid ""
-"There are no files attached to this product.  Upload a new file or select "
-"from other product files."
+msgid "There are no files attached to this product.  Upload a new file or select from other product files."
 msgstr ""
 
 #: wpsc-includes/form-display.functions.php:209
@@ -4512,9 +4208,7 @@ msgid "One or more of this products variations are out of stock."
 msgstr ""
 
 #: wpsc-includes/processing.functions.php:353
-msgid ""
-" does not support products without a weight set. Please either disable "
-"shipping for this product or give it a weight"
+msgid " does not support products without a weight set. Please either disable shipping for this product or give it a weight"
 msgstr ""
 
 #: wpsc-includes/product-template.php:129
@@ -4651,15 +4345,11 @@ msgid "Disabled"
 msgstr ""
 
 #: wpsc-taxes/controllers/taxes_controller.class.php:325
-msgid ""
-"No Tax Bands Setup. Set Tax Bands up in <a href=\"options-general.php?"
-"page=wpsc-settings&tab=taxes\">Settings &gt; Taxes</a>"
+msgid "No Tax Bands Setup. Set Tax Bands up in <a href=\"options-general.php?page=wpsc-settings&tab=taxes\">Settings &gt; Taxes</a>"
 msgstr ""
 
 #: wpsc-taxes/controllers/taxes_controller.class.php:329
-msgid ""
-"Taxes are not enabled. See <a href=\"options-general.php?page=wpsc-"
-"settings&tab=taxes\">Settings &gt; Taxes</a>"
+msgid "Taxes are not enabled. See <a href=\"options-general.php?page=wpsc-settings&tab=taxes\">Settings &gt; Taxes</a>"
 msgstr ""
 
 #: wpsc-taxes/controllers/taxes_controller.class.php:541
@@ -4695,19 +4385,15 @@ msgid "Express Post International"
 msgstr ""
 
 #: wpsc-shipping/australiapost.php:96
-msgid ""
-"This shipping module only works if the base country in settings, region is "
-"set to Australia."
+msgid "This shipping module only works if the base country in settings, region is set to Australia."
 msgstr ""
 
 #: wpsc-shipping/australiapost.php:101
-msgid ""
-"You must set your base postcode above before this shipping module will work."
+msgid "You must set your base postcode above before this shipping module will work."
 msgstr ""
 
 #: wpsc-shipping/australiapost.php:104
-msgid ""
-"Select the Australia Post services that you want to offer during checkout:"
+msgid "Select the Australia Post services that you want to offer during checkout:"
 msgstr ""
 
 #: wpsc-shipping/australiapost.php:112
@@ -4715,34 +4401,23 @@ msgid "Notes:"
 msgstr ""
 
 #: wpsc-shipping/australiapost.php:113
-msgid ""
-"1. The actual services quoted to the customer during checkout will depend on "
-"the destination country. Not all methods are available to all destinations."
+msgid "1. The actual services quoted to the customer during checkout will depend on the destination country. Not all methods are available to all destinations."
 msgstr ""
 
 #: wpsc-shipping/australiapost.php:114
-msgid ""
-"2. Each product must have a valid weight configured. When editing a product, "
-"use the weight field.)."
+msgid "2. Each product must have a valid weight configured. When editing a product, use the weight field.)."
 msgstr ""
 
 #: wpsc-shipping/australiapost.php:115
-msgid ""
-"3. To ensure accurate quotes, each product must valid dimensions configured. "
-"When editing a product, use the height, width and length fields."
+msgid "3. To ensure accurate quotes, each product must valid dimensions configured. When editing a product, use the height, width and length fields."
 msgstr ""
 
 #: wpsc-shipping/australiapost.php:116
-msgid ""
-"4. The combined dimensions are estimated by calculating the volume of each "
-"item, and then calculating the cubed root of the overall order volume which "
-"becomes width, length and height."
+msgid "4. The combined dimensions are estimated by calculating the volume of each item, and then calculating the cubed root of the overall order volume which becomes width, length and height."
 msgstr ""
 
 #: wpsc-shipping/australiapost.php:117
-msgid ""
-"5. If no product dimensions are defined, then default package dimensions of "
-"100mm x 100mm x 100mm will be used."
+msgid "5. If no product dimensions are defined, then default package dimensions of 100mm x 100mm x 100mm will be used."
 msgstr ""
 
 #: wpsc-shipping/australiapost.php:363
@@ -4824,9 +4499,7 @@ msgid "Singular Shipping"
 msgstr ""
 
 #: wpsc-shipping/ups_20.php:247
-msgid ""
-"Rate each quantity of items in a cart as its own package using dimensions on "
-"product"
+msgid "Rate each quantity of items in a cart as its own package using dimensions on product"
 msgstr ""
 
 #: wpsc-shipping/ups_20.php:254
@@ -4862,9 +4535,7 @@ msgid "Click Here"
 msgstr ""
 
 #: wpsc-shipping/ups_20.php:304
-msgid ""
-"* For Negotiated rates, you must enter a UPS account number and select "
-"\"Show UPS negotiated rates\" "
+msgid "* For Negotiated rates, you must enter a UPS account number and select \"Show UPS negotiated rates\" "
 msgstr ""
 
 #: wpsc-shipping/usps_20.php:190
@@ -4884,9 +4555,7 @@ msgid "Advanced Rates:"
 msgstr ""
 
 #: wpsc-shipping/usps_20.php:220
-msgid ""
-"This setting will provide rates based on the dimensions from eacy item in "
-"your cart"
+msgid "This setting will provide rates based on the dimensions from eacy item in your cart"
 msgstr ""
 
 #: wpsc-shipping/usps_20.php:224
@@ -4918,18 +4587,12 @@ msgid "Add Layer"
 msgstr ""
 
 #: wpsc-shipping/weightrate.php:49
-msgid ""
-"Total weight <br />(<abbr alt=\"You must enter the weight here in pounds, "
-"regardless of what you used on your products\" title=\"You must enter the "
-"weight here in pounds, regardless of what you used on your products\">in "
-"pounds</abbr>)"
-msgstr ""
+msgid "Total weight <br />(<abbr alt=\"You must enter the weight here in pounds, regardless of what you used on your products\" title=\"You must enter the weight here in pounds, regardless of what you used on your products\">in pounds</abbr>)"
+msgstr "Tổng cân nặng <br />(<abbr alt=\"Bạn cần nhập cân nặng tại đây theo đơn vị pounds, bất kỳ những gì bạn sử dụng trên sản phẩm của bạn\" title=\"Bạn cần nhập cân nặng tại đây theo đơn vị pounds, bất kỳ những gì bạn sử dụng trên sản phẩm của bạn\">theo pounds</abbr>)"
 
 #: wpsc-shipping/flatrate.php:50
-msgid ""
-"If you do not wish to ship to a particular region, leave the field blank. To "
-"offer free shipping to a region, enter 0."
-msgstr ""
+msgid "If you do not wish to ship to a particular region, leave the field blank. To offer free shipping to a region, enter 0."
+msgstr "Nếu bạn không muốn gửi tới một vùng cụ thể, bỏ trống trường này. Để nhận được vận chuyển miễn phí tới một vùng, nhập số 0."
 
 #: wpsc-updates/currency_list.php:2
 msgid "Mauritania"
@@ -6450,7 +6113,7 @@ msgstr ""
 
 #: wpsc-updates/currency_list.php:135
 msgid "ALL"
-msgstr ""
+msgstr "Tất cả"
 
 #: wpsc-updates/currency_list.php:136
 msgid "Afghanistan"
@@ -7324,11 +6987,11 @@ msgstr ""
 
 #: wpsc-updates/currency_list.php:234
 msgid "Vietnam"
-msgstr ""
+msgstr "Việt Nam"
 
 #: wpsc-updates/currency_list.php:234
 msgid "Vietnamese Dong"
-msgstr ""
+msgstr "Việt Nam Đồng"
 
 #: wpsc-updates/currency_list.php:234
 msgid "VND"
@@ -7400,30 +7063,25 @@ msgstr ""
 
 #: wpsc-updates/updating_tasks.php:4
 msgid ""
-"Your purchase from %shop_name% has just been dispatched. It should arrive "
-"soon. To keep track of your products status a tracking id has been attached. "
-"\\r\\n your tracking id is: %trackid%"
+"Your purchase from %shop_name% has just been dispatched. It should arrive soon. To keep track of your products status a tracking id has been attached. \\r\\n"
+" your tracking id is: %trackid%"
 msgstr ""
+"Mua hàng của bạn từ %shop_name% vừa được gửi đi, và sẽ đến sớm nhất có thể. Để theo dõi tình trạng sản phẩm của bạn vui lòng ghi nhớ ID đính kèm. \\r\\n"
+" mã theo dõi của bạn là: %trackid%"
 
 #: wpsc-updates/updating_tasks.php:7
 msgid "Your Order from %shop_name% has been dispatched"
-msgstr ""
+msgstr "Đơn hàng của bạn từ %shop_name% đã được gửi đi"
 
 #: wpsc-updates/updating_tasks.php:390 wpsc-updates/updating_tasks.php:397
-msgid ""
-"Thank you for purchasing with %shop_name%, any items to be shipped will be "
-"processed as soon as possible, any items that can be downloaded can be "
-"downloaded using the links on this page.All prices include tax and postage "
-"and packaging where applicable.You ordered these items:%product_list%"
-"%total_shipping%%total_price%"
-msgstr ""
+msgid "Thank you for purchasing with %shop_name%, any items to be shipped will be processed as soon as possible, any items that can be downloaded can be downloaded using the links on this page.All prices include tax and postage and packaging where applicable.You ordered these items:%product_list%%total_shipping%%total_price%"
+msgstr "Cám ơn bạn đã mua hàng tại %shop_name%, bất kỳ mặt hàng nào đã xác nhận sẽ được xử lý sớm nhất có thể, bất kỳ mặt hàng nào có thể tải xuống sẽ được thấy trong các liên kết của trang này. Giá trên đã bao gồm thuế, phí đóng gói và vận chuyển. Bạn đã mua những mặt hàng sau:%product_list%%total_shipping%%total_price%"
 
 #: wp-shopping-cart.php:152
-msgid ""
-"Looks like you're running an older version of WordPress, you need to be "
-"running at least WordPress 3.0 to use WP e-Commerce 3.8"
-msgstr ""
+msgid "Looks like you're running an older version of WordPress, you need to be running at least WordPress 3.0 to use WP e-Commerce 3.8"
+msgstr "Hình như bạn đang chạy phiên bản Wordpress cũ, bạn cần nâng cấp lên ít nhất là Wordpress 3.0 để sử dụng WP e-Commerce 3.8"
 
 #: wp-shopping-cart.php:152
 msgid "WP e-Commerce 3.8 not compatible"
-msgstr ""
+msgstr "WP e-Commerce 3.8 không tương thích"
+
